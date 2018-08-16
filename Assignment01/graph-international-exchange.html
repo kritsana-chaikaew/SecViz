@@ -23,11 +23,11 @@
     var app = {};
     option = null;
     myChart.showLoading();
-    $.getJSON('2018-07-Domestic-Exchange-Index.json', function(json) {
+    $.getJSON('2018-07-International-Exchange-Index.json', function(json) {
         myChart.hideLoading();
         myChart.setOption(option = {
             title: {
-                text: 'Domestic Exchange'
+                text: 'International Exchange'
             },
             animationDurationUpdate: 1500,
             animationEasingUpdate: 'quinticInOut',
