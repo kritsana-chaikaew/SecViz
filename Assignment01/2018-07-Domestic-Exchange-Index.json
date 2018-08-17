@@ -3,230 +3,230 @@
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "CSL-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "TIG-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "TCCT-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "Jastel-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
-            "targetID": "AWN-IX (SBN)"
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
+            "targetID": "AWN-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
-            "targetID": "SYMC-IX (Symphony)"
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
+            "targetID": "Symphony-ISP"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "CAT-ISP"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "INET"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "Pacific Internet"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "Ji-NET"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "SAMART Infonet"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
-            "targetID": "Triple T Internet"
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
+            "targetID": "Triple T Internet/ Triple T Broadband"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "KIRZ"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "OTARO"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "ISSP"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "ISSP"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
-            "targetID": "PROEN"
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
+            "targetID": "PROEN Internet"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "True Internet Corporation"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "Telstra"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "KSC"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "TOT ISP"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "UIH/ BEENET"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "MILCOM"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "Loxley"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "NIPA.CLOUD"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "101 Global"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "NTT (TH)"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "TOT LLI"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "CAT ON Net"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "ServeNET"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "SIAMDATA"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "TCCT-ISP"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "INOX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "UniNet"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "ICT MOF"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "Metrabyte"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "CAT-IX (Bangrak/ Nonthaburi)",
+            "sourceID": "CAT-IX (Bangrak/Nonthaburi)",
             "targetID": "1-TO-ALL"
         },
         {
             "attributes": {},
             "size": 1,
             "sourceID": "CSL-IX",
-            "targetID": "Jastel-IX"
+            "targetID": "JasTel-IX"
         },
         {
             "attributes": {},
@@ -238,7 +238,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "CSL-IX",
-            "targetID": "TIG-IX"
+            "targetID": "TIG-IX (TRUE)"
         },
         {
             "attributes": {},
@@ -250,7 +250,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "CSL-IX",
-            "targetID": "CAT-IX (Bangrak/ Nonthaburi)"
+            "targetID": "CAT-IX (Bangrak/Nonthaburi)"
         },
         {
             "attributes": {},
@@ -292,199 +292,199 @@
             "attributes": {},
             "size": 1,
             "sourceID": "CSL-IX",
-            "targetID": "TOT ISP"
+            "targetID": "TOT-ISP"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
+            "sourceID": "JasTel-IX",
             "targetID": "CSL-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
+            "sourceID": "JasTel-IX",
             "targetID": "TOT-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
+            "sourceID": "JasTel-IX",
             "targetID": "TCCT-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
-            "targetID": "TIG-IX"
+            "sourceID": "JasTel-IX",
+            "targetID": "TIG-IX (TRUE)"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
-            "targetID": "CAT-IX (Bangrak/ Nonthaburi)"
+            "sourceID": "JasTel-IX",
+            "targetID": "CAT-IX (Bangrak/Nonthaburi)"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
+            "sourceID": "JasTel-IX",
             "targetID": "DTAC-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
-            "targetID": "AWN-IX (SBN)"
+            "sourceID": "JasTel-IX",
+            "targetID": "AWN-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
-            "targetID": "Triple T Internet"
+            "sourceID": "JasTel-IX",
+            "targetID": "Triple T Internet/ Triple T Broadband"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
+            "sourceID": "JasTel-IX",
             "targetID": "Ji-NET"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
+            "sourceID": "JasTel-IX",
             "targetID": "2S1N"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
+            "sourceID": "JasTel-IX",
             "targetID": "INET"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
+            "sourceID": "JasTel-IX",
             "targetID": "TOT ISP"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
+            "sourceID": "JasTel-IX",
             "targetID": "PROEN"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
+            "sourceID": "JasTel-IX",
             "targetID": "NIPA.CLOUD"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
+            "sourceID": "JasTel-IX",
             "targetID": "PTT ICT"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
+            "sourceID": "JasTel-IX",
             "targetID": "SAMART Infonet"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "Jastel-IX",
+            "sourceID": "JasTel-IX",
             "targetID": "NTT (TH)"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
+            "sourceID": "AWN-ISP (SBN)",
             "targetID": "CSL-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
-            "targetID": "TIG-IX"
+            "sourceID": "AWN-ISP (SBN)",
+            "targetID": "TIG-IX (TRUE)"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
-            "targetID": "CAT-IX (Bangrak/ Nonthaburi)"
+            "sourceID": "AWN-ISP (SBN)",
+            "targetID": "CAT-IX (Bangrak/Nonthaburi)"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
+            "sourceID": "AWN-ISP (SBN)",
             "targetID": "DTAC-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
-            "targetID": "Jastel-IX"
+            "sourceID": "AWN-ISP (SBN)",
+            "targetID": "JasTel-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
+            "sourceID": "AWN-ISP (SBN)",
             "targetID": "TOT-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
+            "sourceID": "AWN-ISP (SBN)",
             "targetID": "TCCT-IX"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
-            "targetID": "Triple T Internet"
+            "sourceID": "AWN-ISP (SBN)",
+            "targetID": "Triple T Internet/ Triple T Broadband"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
-            "targetID": "AWN-IX (SBN)"
+            "sourceID": "AWN-ISP (SBN)",
+            "targetID": "AWN-ISP (SBN)"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
+            "sourceID": "AWN-ISP (SBN)",
             "targetID": "INET"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
-            "targetID": "PROEN"
+            "sourceID": "AWN-ISP (SBN)",
+            "targetID": "PROEN Internet"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
+            "sourceID": "AWN-ISP (SBN)",
             "targetID": "NIPA.CLOUD"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
+            "sourceID": "AWN-ISP (SBN)",
             "targetID": "PTT ICT"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
+            "sourceID": "AWN-ISP (SBN)",
             "targetID": "OTARO"
         },
         {
             "attributes": {},
             "size": 1,
-            "sourceID": "AWN-IX (SBN)",
-            "targetID": "TOT ISP"
+            "sourceID": "AWN-ISP (SBN)",
+            "targetID": "TOT-ISP"
         },
         {
             "attributes": {},
@@ -496,19 +496,19 @@
             "attributes": {},
             "size": 1,
             "sourceID": "SYMC-IX",
-            "targetID": "TIG-IX"
+            "targetID": "TIG-IX (TRUE)"
         },
         {
             "attributes": {},
             "size": 1,
             "sourceID": "SYMC-IX",
-            "targetID": "SYMC-IX (Symphony)"
+            "targetID": "Symphony-ISP"
         },
         {
             "attributes": {},
             "size": 1,
             "sourceID": "SYMC-IX",
-            "targetID": "AWN-IX (SBN)"
+            "targetID": "AWN-ISP (SBN)"
         },
         {
             "attributes": {},
@@ -520,7 +520,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "SYMC-IX",
-            "targetID": "PROEN"
+            "targetID": "PROEN Internet"
         },
         {
             "attributes": {},
@@ -550,7 +550,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "TCCT-IX",
-            "targetID": "Jastel-IX"
+            "targetID": "JasTel-IX"
         },
         {
             "attributes": {},
@@ -562,7 +562,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "TCCT-IX",
-            "targetID": "TIG-IX"
+            "targetID": "TIG-IX (TRUE)"
         },
         {
             "attributes": {},
@@ -640,7 +640,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "TIG-IX",
-            "targetID": "Jastel-IX"
+            "targetID": "JasTel-IX"
         },
         {
             "attributes": {},
@@ -682,7 +682,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "TIG-IX",
-            "targetID": "PROEN"
+            "targetID": "PROEN Internet"
         },
         {
             "attributes": {},
@@ -706,7 +706,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "TIG-IX",
-            "targetID": "UIH/ BEENET"
+            "targetID": "UIH /BEENET"
         },
         {
             "attributes": {},
@@ -730,7 +730,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "TOT-IX",
-            "targetID": "Jastel-IX"
+            "targetID": "JasTel-IX"
         },
         {
             "attributes": {},
@@ -778,7 +778,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "TOT-IX",
-            "targetID": "PROEN"
+            "targetID": "PROEN Internet"
         },
         {
             "attributes": {},
@@ -808,7 +808,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "TOT-IX",
-            "targetID": "SYMC-IX (Symphony)"
+            "targetID": "Symphony-ISP"
         },
         {
             "attributes": {},
@@ -820,7 +820,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "TOT-IX",
-            "targetID": "UIH/ BEENET"
+            "targetID": "UIH (Beenet)"
         },
         {
             "attributes": {},
@@ -856,7 +856,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "DTAC-IX",
-            "targetID": "Jastel-IX"
+            "targetID": "JasTel-IX"
         },
         {
             "attributes": {},
@@ -922,7 +922,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "BKNIX",
-            "targetID": "Triple T Internet"
+            "targetID": "Triple T Internet/ Triple T Broadband"
         },
         {
             "attributes": {},
@@ -964,7 +964,7 @@
             "attributes": {},
             "size": 1,
             "sourceID": "BKNIX",
-            "targetID": "UIH/ BEENET"
+            "targetID": "UIH (BeeNet)"
         },
         {
             "attributes": {},
@@ -982,615 +982,615 @@
     "nodes": [
         {
             "attributes": {},
-            "color": "#F3C13A",
-            "id": "SIAMDATA",
-            "label": "SIAMDATA",
-            "size": 2,
-            "x": -5,
-            "y": -5
-        },
-        {
-            "attributes": {},
-            "color": "#26A65B",
-            "id": "ICT MOF",
-            "label": "ICT MOF",
-            "size": 1,
-            "x": 4,
-            "y": 5
-        },
-        {
-            "attributes": {},
-            "color": "#F9690E",
-            "id": "TCCT-IX",
-            "label": "TCCT-IX",
-            "size": 21,
-            "x": 1,
-            "y": 3
-        },
-        {
-            "attributes": {},
-            "color": "#F62459",
-            "id": "Telstra",
-            "label": "Telstra",
-            "size": 1,
-            "x": 3,
-            "y": -2
-        },
-        {
-            "attributes": {},
-            "color": "#F9690E",
-            "id": "CS Loxinfo",
-            "label": "CS Loxinfo",
-            "size": 1,
-            "x": -1,
-            "y": -3
-        },
-        {
-            "attributes": {},
-            "color": "#F7CA18",
-            "id": "1-TO-ALL",
-            "label": "1-TO-ALL",
-            "size": 1,
-            "x": -4,
-            "y": 4
-        },
-        {
-            "attributes": {},
-            "color": "#DC3023",
-            "id": "Symphony-ISP",
-            "label": "Symphony-ISP",
-            "size": 0,
-            "x": 1,
-            "y": 3
-        },
-        {
-            "attributes": {},
-            "color": "#5D8CAE",
-            "id": "TOT ISP",
-            "label": "TOT ISP",
-            "size": 6,
-            "x": 2,
-            "y": 4
-        },
-        {
-            "attributes": {},
-            "color": "#E68364",
-            "id": "Triple T Internet",
-            "label": "Triple T Internet",
-            "size": 5,
-            "x": 3,
-            "y": 0
-        },
-        {
-            "attributes": {},
-            "color": "#FFA400",
-            "id": "PTT ICT",
-            "label": "PTT ICT",
-            "size": 2,
-            "x": 3,
-            "y": 3
-        },
-        {
-            "attributes": {},
-            "color": "#87D37C",
-            "id": "UIH/ BEENET",
-            "label": "UIH/ BEENET",
-            "size": 4,
-            "x": -4,
-            "y": -1
-        },
-        {
-            "attributes": {},
-            "color": "#48929B",
-            "id": "UIH /BEENET",
-            "label": "UIH /BEENET",
-            "size": 0,
-            "x": -5,
-            "y": -1
-        },
-        {
-            "attributes": {},
-            "color": "#4DAF7C",
-            "id": "DTAC-IX",
-            "label": "DTAC-IX",
-            "size": 14,
-            "x": -1,
-            "y": 1
-        },
-        {
-            "attributes": {},
             "color": "#C93756",
-            "id": "Dtac Trinet",
-            "label": "Dtac Trinet",
-            "size": 1,
-            "x": 4,
-            "y": 5
-        },
-        {
-            "attributes": {},
-            "color": "#4DAF7C",
-            "id": "INET",
-            "label": "INET",
-            "size": 8,
-            "x": 1,
-            "y": 1
-        },
-        {
-            "attributes": {},
-            "color": "#F5D76E",
-            "id": "A-Net",
-            "label": "A-Net",
-            "size": 2,
-            "x": 5,
-            "y": -4
-        },
-        {
-            "attributes": {},
-            "color": "#4B77BE",
-            "id": "KIRZ",
-            "label": "KIRZ",
-            "size": 4,
-            "x": 1,
-            "y": -1
-        },
-        {
-            "attributes": {},
-            "color": "#FFB94E",
-            "id": "ISSP",
-            "label": "ISSP",
-            "size": 3,
-            "x": -2,
-            "y": 3
-        },
-        {
-            "attributes": {},
-            "color": "#BF55EC",
-            "id": "AIT",
-            "label": "AIT",
-            "size": 1,
+            "id": "KSC",
+            "label": "KSC",
+            "size": 15,
             "x": 0,
-            "y": 2
-        },
-        {
-            "attributes": {},
-            "color": "#8F1D21",
-            "id": "True Internet Corporation",
-            "label": "True Internet Corporation",
-            "size": 3,
-            "x": 3,
-            "y": -5
-        },
-        {
-            "attributes": {},
-            "color": "#006442",
-            "id": "ServeNET",
-            "label": "ServeNET",
-            "size": 1,
-            "x": 5,
-            "y": -5
-        },
-        {
-            "attributes": {},
-            "color": "#95A5A6",
-            "id": "CSL-IX",
-            "label": "CSL-IX",
-            "size": 20,
-            "x": 4,
-            "y": 3
-        },
-        {
-            "attributes": {},
-            "color": "#87D37C",
-            "id": "2S1N",
-            "label": "2S1N",
-            "size": 1,
-            "x": 4,
             "y": -2
-        },
-        {
-            "attributes": {},
-            "color": "#36D7B7",
-            "id": "TOT-IX",
-            "label": "TOT-IX",
-            "size": 26,
-            "x": -4,
-            "y": -2
-        },
-        {
-            "attributes": {},
-            "color": "#DC3023",
-            "id": "INOX",
-            "label": "INOX",
-            "size": 2,
-            "x": -1,
-            "y": -3
-        },
-        {
-            "attributes": {},
-            "color": "#F3C13A",
-            "id": "Jastel-IX",
-            "label": "Jastel-IX",
-            "size": 24,
-            "x": -1,
-            "y": -5
-        },
-        {
-            "attributes": {},
-            "color": "#8DB255",
-            "id": "UIH (Beenet)",
-            "label": "UIH (Beenet)",
-            "size": 0,
-            "x": -2,
-            "y": -4
         },
         {
             "attributes": {},
             "color": "#317589",
-            "id": "SAMART Infonet",
-            "label": "SAMART Infonet",
-            "size": 2,
-            "x": 4,
-            "y": -2
-        },
-        {
-            "attributes": {},
-            "color": "#36D7B7",
-            "id": "SYMC-IX (Symphony)",
-            "label": "SYMC-IX (Symphony)",
-            "size": 4,
-            "x": 3,
-            "y": -3
-        },
-        {
-            "attributes": {},
-            "color": "#006442",
-            "id": "TCCT-ISP",
-            "label": "TCCT-ISP",
-            "size": 2,
-            "x": 2,
-            "y": 3
-        },
-        {
-            "attributes": {},
-            "color": "#5D3F6A",
-            "id": "JasTel-IX",
-            "label": "JasTel-IX",
-            "size": 0,
-            "x": 2,
-            "y": 5
-        },
-        {
-            "attributes": {},
-            "color": "#26C281",
-            "id": "Siam Data",
-            "label": "Siam Data",
-            "size": 1,
-            "x": 5,
-            "y": -2
-        },
-        {
-            "attributes": {},
-            "color": "#E68364",
-            "id": "EGA",
-            "label": "EGA",
-            "size": 1,
-            "x": 2,
-            "y": -3
-        },
-        {
-            "attributes": {},
-            "color": "#F5D76E",
-            "id": "BKNIX",
-            "label": "BKNIX",
-            "size": 17,
-            "x": 2,
-            "y": 0
-        },
-        {
-            "attributes": {},
-            "color": "#763568",
-            "id": "AWN-ISP (SBN)",
-            "label": "AWN-ISP (SBN)",
-            "size": 0,
-            "x": 5,
-            "y": -1
-        },
-        {
-            "attributes": {},
-            "color": "#FFA631",
-            "id": "CAT ON Net",
-            "label": "CAT ON Net",
-            "size": 1,
-            "x": 5,
-            "y": -1
-        },
-        {
-            "attributes": {},
-            "color": "#D2D7D3",
-            "id": "101 Global",
-            "label": "101 Global",
-            "size": 1,
-            "x": 4,
-            "y": -3
-        },
-        {
-            "attributes": {},
-            "color": "#5D8CAE",
-            "id": "AWN-IX (SBN)",
-            "label": "AWN-IX (SBN)",
-            "size": 23,
-            "x": 2,
-            "y": -2
-        },
-        {
-            "attributes": {},
-            "color": "#003171",
-            "id": "CAT-ISP",
-            "label": "CAT-ISP",
-            "size": 2,
-            "x": 4,
-            "y": -2
-        },
-        {
-            "attributes": {},
-            "color": "#4D8FAC",
-            "id": "CAT-IX (Bangrak/ Nonthaburi)",
-            "label": "CAT-IX (Bangrak/ Nonthaburi)",
-            "size": 42,
-            "x": 2,
-            "y": 5
-        },
-        {
-            "attributes": {},
-            "color": "#049372",
-            "id": "Pacific Internet",
-            "label": "Pacific Internet",
-            "size": 1,
-            "x": -1,
-            "y": 4
-        },
-        {
-            "attributes": {},
-            "color": "#F5D76E",
-            "id": "Metrabyte",
-            "label": "Metrabyte",
-            "size": 1,
-            "x": -1,
-            "y": -1
-        },
-        {
-            "attributes": {},
-            "color": "#FFB94E",
-            "id": "Ji-NET",
-            "label": "Ji-NET",
-            "size": 2,
-            "x": 0,
-            "y": -5
-        },
-        {
-            "attributes": {},
-            "color": "#D2D7D3",
-            "id": "BB Connect",
-            "label": "BB Connect",
-            "size": 1,
-            "x": 1,
-            "y": 4
-        },
-        {
-            "attributes": {},
-            "color": "#4D8FAC",
-            "id": "PROEN",
-            "label": "PROEN",
-            "size": 6,
-            "x": 1,
-            "y": -4
-        },
-        {
-            "attributes": {},
-            "color": "#BDC3C7",
-            "id": "TOT LLI",
-            "label": "TOT LLI",
-            "size": 2,
-            "x": 1,
-            "y": -4
-        },
-        {
-            "attributes": {},
-            "color": "#7A942E",
-            "id": "TIG-IX (TRUE)",
-            "label": "TIG-IX (TRUE)",
-            "size": 0,
-            "x": 4,
-            "y": -5
-        },
-        {
-            "attributes": {},
-            "color": "#1F4788",
-            "id": "Loxley",
-            "label": "Loxley",
-            "size": 2,
-            "x": 3,
-            "y": -1
-        },
-        {
-            "attributes": {},
-            "color": "#C3272B",
-            "id": "KSC",
-            "label": "KSC",
-            "size": 3,
-            "x": -3,
-            "y": -3
-        },
-        {
-            "attributes": {},
-            "color": "#FFA400",
-            "id": "OTARO",
-            "label": "OTARO",
-            "size": 4,
-            "x": -4,
-            "y": -3
-        },
-        {
-            "attributes": {},
-            "color": "#C91F37",
-            "id": "TIG-IX",
-            "label": "TIG-IX",
-            "size": 25,
-            "x": -3,
-            "y": -4
-        },
-        {
-            "attributes": {},
-            "color": "#F9690E",
-            "id": "Dots Solutions",
-            "label": "Dots Solutions",
-            "size": 1,
-            "x": 1,
-            "y": -5
-        },
-        {
-            "attributes": {},
-            "color": "#F3C13A",
-            "id": "TOT-IDC",
-            "label": "TOT-IDC",
-            "size": 1,
-            "x": 1,
+            "id": "CS Loxinfo",
+            "label": "CS Loxinfo",
+            "size": 5,
+            "x": -5,
             "y": 2
         },
         {
             "attributes": {},
-            "color": "#F08F907",
-            "id": "BB Connect-IX (UIH/BEENET)",
-            "label": "BB Connect-IX (UIH/BEENET)",
-            "size": 1,
+            "color": "#2ABB9B",
+            "id": "101 Global",
+            "label": "101 Global",
+            "size": 5,
+            "x": 0,
+            "y": 1
+        },
+        {
+            "attributes": {},
+            "color": "#8F1D21",
+            "id": "TCCT-ISP",
+            "label": "TCCT-ISP",
+            "size": 10,
+            "x": -3,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#E08A1E",
+            "id": "SYMC-IX (Symphony)",
+            "label": "SYMC-IX (Symphony)",
+            "size": 0,
+            "x": 4,
+            "y": 3
+        },
+        {
+            "attributes": {},
+            "color": "#003171",
+            "id": "ISSP",
+            "label": "ISSP",
+            "size": 15,
             "x": -5,
             "y": 5
         },
         {
             "attributes": {},
+            "color": "#F4D03F",
+            "id": "UIH /BEENET",
+            "label": "UIH /BEENET",
+            "size": 0,
+            "x": 4,
+            "y": -1
+        },
+        {
+            "attributes": {},
             "color": "#CF000F",
-            "id": "UniNet",
-            "label": "UniNet",
-            "size": 3,
+            "id": "AWN-IX",
+            "label": "AWN-IX",
+            "size": 0,
+            "x": 5,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#5B3256",
+            "id": "INET",
+            "label": "INET",
+            "size": 40,
+            "x": -4,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#FFB94E",
+            "id": "A-Net",
+            "label": "A-Net",
+            "size": 10,
+            "x": 5,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#DC3023",
+            "id": "Triple T Internet",
+            "label": "Triple T Internet",
+            "size": 25,
+            "x": -5,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#ECF0F1",
+            "id": "SAMART Infonet",
+            "label": "SAMART Infonet",
+            "size": 10,
+            "x": -4,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#E08A1E",
+            "id": "AIT",
+            "label": "AIT",
+            "size": 5,
+            "x": -3,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#D9B611",
+            "id": "CAT-IX (Bangrak/Nonthaburi)",
+            "label": "CAT-IX (Bangrak/Nonthaburi)",
+            "size": 210,
+            "x": -2,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#8D608C",
+            "id": "OTARO",
+            "label": "OTARO",
+            "size": 20,
+            "x": -3,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#E2B13C",
+            "id": "AWN-ISP (SBN)",
+            "label": "AWN-ISP (SBN)",
+            "size": 115,
+            "x": -1,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#5B8930",
+            "id": "AWN-IX (SBN)",
+            "label": "AWN-IX (SBN)",
+            "size": 0,
+            "x": -4,
+            "y": -2
+        },
+        {
+            "attributes": {},
+            "color": "#D24D57",
+            "id": "KIRZ",
+            "label": "KIRZ",
+            "size": 20,
+            "x": 2,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#2ABB9B",
+            "id": "Symphony-ISP",
+            "label": "Symphony-ISP",
+            "size": 20,
+            "x": 0,
+            "y": 1
+        },
+        {
+            "attributes": {},
+            "color": "#59ABE3",
+            "id": "TIG-IX",
+            "label": "TIG-IX",
+            "size": 125,
+            "x": -5,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#FAA945",
+            "id": "TIG-IX (TRUE)",
+            "label": "TIG-IX (TRUE)",
+            "size": 0,
+            "x": 4,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#C3272B",
+            "id": "TOT-IDC",
+            "label": "TOT-IDC",
+            "size": 5,
+            "x": 3,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#19B5FE",
+            "id": "MILCOM",
+            "label": "MILCOM",
+            "size": 5,
+            "x": 1,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#407A52",
+            "id": "PTT ICT",
+            "label": "PTT ICT",
+            "size": 10,
+            "x": 2,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#CA6924",
+            "id": "Dots Solutions",
+            "label": "Dots Solutions",
+            "size": 5,
+            "x": 2,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#BF55EC",
+            "id": "EGA",
+            "label": "EGA",
+            "size": 5,
+            "x": 5,
+            "y": -2
+        },
+        {
+            "attributes": {},
+            "color": "#26C281",
+            "id": "BB Connect",
+            "label": "BB Connect",
+            "size": 5,
+            "x": 4,
+            "y": -2
+        },
+        {
+            "attributes": {},
+            "color": "#89C4F4",
+            "id": "BB Connect-IX (UIH/BEENET)",
+            "label": "BB Connect-IX (UIH/BEENET)",
+            "size": 5,
+            "x": -2,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#DB5A6B",
+            "id": "Jastel-IX",
+            "label": "Jastel-IX",
+            "size": 0,
+            "x": 1,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#E2B13C",
+            "id": "Metrabyte",
+            "label": "Metrabyte",
+            "size": 5,
             "x": 0,
             "y": 4
         },
         {
             "attributes": {},
-            "color": "#6B9362",
-            "id": "CAT-IX (Bangrak/Nonthaburi)",
-            "label": "CAT-IX (Bangrak/Nonthaburi)",
-            "size": 0,
-            "x": 1,
+            "color": "#006442",
+            "id": "CAT ON Net",
+            "label": "CAT ON Net",
+            "size": 5,
+            "x": 2,
+            "y": -1
+        },
+        {
+            "attributes": {},
+            "color": "#CF3A24",
+            "id": "TOT LLI",
+            "label": "TOT LLI",
+            "size": 10,
+            "x": -1,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#003171",
+            "id": "PROEN Internet",
+            "label": "PROEN Internet",
+            "size": 30,
+            "x": 3,
+            "y": 1
+        },
+        {
+            "attributes": {},
+            "color": "#1F4788",
+            "id": "Siam Data",
+            "label": "Siam Data",
+            "size": 5,
+            "x": -5,
+            "y": -1
+        },
+        {
+            "attributes": {},
+            "color": "#BDC3C7",
+            "id": "ICT MOF",
+            "label": "ICT MOF",
+            "size": 5,
+            "x": 0,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#59ABE3",
+            "id": "MOE",
+            "label": "MOE",
+            "size": 5,
+            "x": 0,
             "y": -5
         },
         {
             "attributes": {},
             "color": "#E2B13C",
-            "id": "NIPA.CLOUD",
-            "label": "NIPA.CLOUD",
+            "id": "1-TO-ALL",
+            "label": "1-TO-ALL",
             "size": 5,
-            "x": -4,
+            "x": 1,
             "y": 0
         },
         {
             "attributes": {},
-            "color": "#CF000F",
-            "id": "MILCOM",
-            "label": "MILCOM",
-            "size": 1,
-            "x": -5,
-            "y": -4
+            "color": "#F08F907",
+            "id": "POP-IDC",
+            "label": "POP-IDC",
+            "size": 5,
+            "x": -1,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#F5D76E",
+            "id": "UIH (BeeNet)",
+            "label": "UIH (BeeNet)",
+            "size": 0,
+            "x": -2,
+            "y": -2
+        },
+        {
+            "attributes": {},
+            "color": "#48929B",
+            "id": "UIH/ BEENET",
+            "label": "UIH/ BEENET",
+            "size": 0,
+            "x": -2,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#8F1D21",
+            "id": "TOT-IX",
+            "label": "TOT-IX",
+            "size": 130,
+            "x": 1,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#8E44AD",
+            "id": "PROEN",
+            "label": "PROEN",
+            "size": 0,
+            "x": -2,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#BE90D4",
+            "id": "BKNIX",
+            "label": "BKNIX",
+            "size": 85,
+            "x": -2,
+            "y": -2
         },
         {
             "attributes": {},
             "color": "#BFBFBF",
-            "id": "UIH (BeeNet)",
-            "label": "UIH (BeeNet)",
-            "size": 0,
-            "x": 3,
-            "y": 3
-        },
-        {
-            "attributes": {},
-            "color": "#6C7A89",
-            "id": "SYMC-IX",
-            "label": "SYMC-IX",
-            "size": 9,
-            "x": -4,
-            "y": 5
-        },
-        {
-            "attributes": {},
-            "color": "#CF000F",
-            "id": "Triple T Internet/ Triple T Broadband",
-            "label": "Triple T Internet/ Triple T Broadband",
-            "size": 0,
-            "x": 5,
-            "y": -2
+            "id": "True Internet Corporation",
+            "label": "True Internet Corporation",
+            "size": 15,
+            "x": -1,
+            "y": 2
         },
         {
             "attributes": {},
             "color": "#F7CA18",
-            "id": "NTT (TH)",
-            "label": "NTT (TH)",
-            "size": 4,
-            "x": 2,
-            "y": -3
-        },
-        {
-            "attributes": {},
-            "color": "#4B77BE",
-            "id": "POP-IDC",
-            "label": "POP-IDC",
-            "size": 1,
-            "x": 2,
-            "y": -4
-        },
-        {
-            "attributes": {},
-            "color": "#006442",
-            "id": "GIN",
-            "label": "GIN",
-            "size": 1,
-            "x": 4,
-            "y": -3
-        },
-        {
-            "attributes": {},
-            "color": "#5D3F6A",
-            "id": "TOT-ISP",
-            "label": "TOT-ISP",
-            "size": 0,
+            "id": "CSL-IX",
+            "label": "CSL-IX",
+            "size": 100,
             "x": -4,
-            "y": -2
-        },
-        {
-            "attributes": {},
-            "color": "#1F4788",
-            "id": "PROEN Internet",
-            "label": "PROEN Internet",
-            "size": 0,
-            "x": 2,
             "y": 5
         },
         {
             "attributes": {},
-            "color": "#003171",
-            "id": "AWN-IX",
-            "label": "AWN-IX",
-            "size": 0,
+            "color": "#DB5A6B",
+            "id": "Loxley",
+            "label": "Loxley",
+            "size": 10,
             "x": -1,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#36D7B7",
+            "id": "NIPA.CLOUD",
+            "label": "NIPA.CLOUD",
+            "size": 25,
+            "x": 0,
+            "y": 3
+        },
+        {
+            "attributes": {},
+            "color": "#FAA945",
+            "id": "ServeNET",
+            "label": "ServeNET",
+            "size": 5,
+            "x": -5,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#89729E",
+            "id": "TCCT-IX",
+            "label": "TCCT-IX",
+            "size": 105,
+            "x": -4,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#9B59B6",
+            "id": "UniNet",
+            "label": "UniNet",
+            "size": 15,
+            "x": 1,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#5D3F6A",
+            "id": "UIH (Beenet)",
+            "label": "UIH (Beenet)",
+            "size": 20,
+            "x": 5,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#8E44AD",
+            "id": "TOT-ISP",
+            "label": "TOT-ISP",
+            "size": 0,
+            "x": 3,
             "y": 0
         },
         {
             "attributes": {},
             "color": "#6B9362",
-            "id": "MOE",
-            "label": "MOE",
-            "size": 1,
-            "x": 4,
+            "id": "GIN",
+            "label": "GIN",
+            "size": 5,
+            "x": 0,
             "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#48929B",
+            "id": "Triple T Internet/ Triple T Broadband",
+            "label": "Triple T Internet/ Triple T Broadband",
+            "size": 0,
+            "x": 2,
+            "y": 3
+        },
+        {
+            "attributes": {},
+            "color": "#9B59B6",
+            "id": "Ji-NET",
+            "label": "Ji-NET",
+            "size": 10,
+            "x": 3,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#4D8FAC",
+            "id": "TOT ISP",
+            "label": "TOT ISP",
+            "size": 30,
+            "x": 3,
+            "y": -1
+        },
+        {
+            "attributes": {},
+            "color": "#F4D03F",
+            "id": "JasTel-IX",
+            "label": "JasTel-IX",
+            "size": 120,
+            "x": 4,
+            "y": -1
+        },
+        {
+            "attributes": {},
+            "color": "#4B77BE",
+            "id": "DTAC-IX",
+            "label": "DTAC-IX",
+            "size": 70,
+            "x": -4,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#5D3F6A",
+            "id": "Pacific Internet",
+            "label": "Pacific Internet",
+            "size": 5,
+            "x": 4,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#59ABE3",
+            "id": "NTT (TH)",
+            "label": "NTT (TH)",
+            "size": 20,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#049372",
+            "id": "SIAMDATA",
+            "label": "SIAMDATA",
+            "size": 10,
+            "x": -5,
+            "y": 3
+        },
+        {
+            "attributes": {},
+            "color": "#BFBFBF",
+            "id": "CAT-ISP",
+            "label": "CAT-ISP",
+            "size": 10,
+            "x": 2,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#95A5A6",
+            "id": "INOX",
+            "label": "INOX",
+            "size": 10,
+            "x": 4,
+            "y": -2
+        },
+        {
+            "attributes": {},
+            "color": "#875F9A",
+            "id": "2S1N",
+            "label": "2S1N",
+            "size": 5,
+            "x": -3,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#19B5FE",
+            "id": "SYMC-IX",
+            "label": "SYMC-IX",
+            "size": 45,
+            "x": 3,
+            "y": -1
+        },
+        {
+            "attributes": {},
+            "color": "#9D2933",
+            "id": "Telstra",
+            "label": "Telstra",
+            "size": 5,
+            "x": 1,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#757D75",
+            "id": "CAT-IX (Bangrak/ Nonthaburi)",
+            "label": "CAT-IX (Bangrak/ Nonthaburi)",
+            "size": 0,
+            "x": -5,
+            "y": -1
+        },
+        {
+            "attributes": {},
+            "color": "#F22613",
+            "id": "Dtac Trinet",
+            "label": "Dtac Trinet",
+            "size": 5,
+            "x": -3,
+            "y": -2
         }
     ]
 }

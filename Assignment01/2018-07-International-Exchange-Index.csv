@@ -16,7 +16,7 @@ AS4651,AS23884,PROEN Internet,ISP-Local,1.05,Gbps,IPv6 Dual Stack
 AS4651,AS45413,ServeNET,ISP-Local,30,Mbps,IPv4
 AS4651,AS5639,SIAMDATA,ISP-Local,200,Mbps,IPv4
 AS4651,AS23969,TOT ISP,ISP-Local,40,Gbps,IPv4
-AS4651,AS131293 ,TOT LLI,ISP-Local,10,Gbps,IPv4
+AS4651,AS131293,TOT LLI,ISP-Local,10,Gbps,IPv4
 AS4651,AS7470,True Internet Corporation,ISP-Local,140,Gbps,IPv4
 AS4651,AS38794,UIH/ BEENET,ISP-Local,700,Mbps,IPv6 Dual Stack
 AS4651,AS38328,ICT MOF,ISP-Govt,230,Mbps,IPv4
@@ -33,17 +33,17 @@ AS4651,AS65517,Equinix (FR),ISP-Inter,10,Gbps,Peering
 AS4651,AS24115,Equinix (SG),ISP-Inter,100,Gbps,Peering
 AS4651,AS65517,Equinix San Jose (US),ISP-Inter,10,Gbps,Peering
 AS4651,AS8966,Etisalat (UAE),ISP-Inter,310,Mbps,Peering
-AS4651,AS32934,Facebook (SG)   ,ISP-Inter,40,Gbps,Peering
+AS4651,AS32934,Facebook (SG),ISP-Inter,40,Gbps,Peering
 AS4651,AS136975,GlobalNet (MM),ISP-Inter,20,Gbps,Transit
 AS4651,AS15169,Google (HK),ISP-Inter,40,Gbps,Peering
 AS4651,AS15169,Google (SG),ISP-Inter,80,Gbps,Peering
 AS4651,AS4635,HKIX (HK),ISP-Inter,20,Gbps,Peering
-AS4651,AS6939,Hurricane  (HK),ISP-Inter,10,Gbps,Transit
-AS4651,AS6939,Hurricane  (US),ISP-Inter,10,Gbps,Transit
+AS4651,AS6939,Hurricane (HK),ISP-Inter,10,Gbps,Transit
+AS4651,AS6939,Hurricane (US),ISP-Inter,10,Gbps,Transit
 AS4651,AS45686,JPNAP (JP),ISP-Inter,10,Gbps,Peering
 AS4651,AS2516,KDDI (HK),ISP-Inter,9.6,Gbps,Transit
 AS4651,AS174,Cogent (SG),ISP-Inter,10,Gbps,Peering
-AS4651,AS3356,Level3  (US),ISP-Inter,10,Gbps,Transit
+AS4651,AS3356,Level3 (US),ISP-Inter,10,Gbps,Transit
 AS4651,AS3786,LG DACOM (KR),ISP-Inter,310,Mbps,Peering
 AS4651,AS5459,LINX (UK),ISP-Inter,10,Gbps,Peering
 AS4651,AS8075,Microsoft (HK),ISP-Inter,10,Gbps,Peering
@@ -67,9 +67,9 @@ AS4651,AS1299,TeliaSonera (SG),ISP-Inter,5.5,Gbps,Transit
 AS4651,AS4637,Telstra (HK) ,ISP-Inter,1.244,Gbps,Peering
 AS4651,AS4637,Telstra (SG),ISP-Inter,310,Mbps,Peering
 AS4651,AS4788,TM (MY) ,ISP-Inter,10.932,Gbps,Peering
-AS4651,AS46489,Twitch  (SG),ISP-Inter,10,Gbps,Peering
+AS4651,AS46489,Twitch (SG),ISP-Inter,10,Gbps,Peering
 AS4651,AS45899,VNPT Corp (VN),ISP-Inter,1,Gbps,Peering
-AS4651,AS1273,Vodafone  (FR) ,ISP-Inter,8,Gbps,Transit
+AS4651,AS1273,Vodafone (FR) ,ISP-Inter,8,Gbps,Transit
 AS45796,AS45581,INFONET,ISP-Local,0.01,Gbps,IPv4
 AS45796,AS10089,DTAC (IIG),IIG,2,Gbps,Transit
 AS45796,AS38794,UIH (Beenet),ISP-Local,200,Gbps,IPv6 Dual Stack
@@ -112,7 +112,7 @@ AS45796,AS17676,SOFTBANK (SG),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
 AS45796,AS36351,SoftLayer (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
 AS45796,AS3303,Swisscom (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
 AS45796,AS4788,TM (MY),ISP-Inter,10,Gbps,Transit/IPv6 Dual Stack
-AS45796,AS46489,Twitch(SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS46489,Twitch (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
 AS45796,AS13414,Twitter (SG),ISP-Inter,10,Gbps,Peering
 AS45796,AS131267,UNITEL (LA),ISP-Inter,2,Gbps,IPv4
 AS45796,AS32590,VALVE (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
@@ -236,7 +236,7 @@ AS7568,AS6453,TATA (UK),ISP-Inter,0.1,Gbps,Transit/IPv6 Dual Stack
 AS7568,AS6762,Telecom Italia (SG),ISP-Inter,0.2,Gbps,Transit/IPv6 Dual Stack
 AS7568,AS4637,Telstra (SG),ISP-Inter,0.5,Gbps,Transit/IPv6 Dual Stack
 AS7568,AS1299,TeliaSonera (UK),ISP-Inter,0.13,Gbps,Transit/IPv6 Dual Stack
-AS10089,AS9587,Dtac Trinet ,ISP-Local,800,Gbps,Transit/IPv6 Dual Stack
+AS10089,AS9587,Dtac Trinet,ISP-Local,800,Gbps,Transit/IPv6 Dual Stack
 AS10089,AS45796,BB Connect-IIG,IIG,2,Gbps,Transit/IPv6 Dual Stack
 AS10089,AS4618,INET,ISP-Local,1,Gbps,Transit
 AS10089,AS59360,BBIX (SG),ISP-Inter,10,Gbps,Peering
