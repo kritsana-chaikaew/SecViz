@@ -33,7 +33,7 @@
             animationEasingUpdate: 'quinticInOut',
             series: [{
                 type: 'graph',
-                layout: 'circular',
+                layout: 'links',
                 // progressiveThreshold: 700,
                 data: json.nodes.map(function(node) {
                     return {
@@ -70,7 +70,7 @@
                         curveness: 0.3,
                         opacity: 0.7
                     }
-                }
+                }                
             }]
         }, true);
     });;

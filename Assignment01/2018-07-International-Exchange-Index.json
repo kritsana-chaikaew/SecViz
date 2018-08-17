@@ -3826,2289 +3826,3630 @@
     "nodes": [
         {
             "attributes": {},
-            "color": "#FAA945",
-            "id": "AS20940",
-            "label": "AS20940",
-            "size": 8,
-            "x": -4,
-            "y": -3
+            "color": "#264348",
+            "id": "NTT (SG)",
+            "label": "NTT (SG)",
+            "size": 9,
+            "x": 17,
+            "y": 5
         },
         {
             "attributes": {},
-            "color": "#003171",
-            "id": "AS8674",
-            "label": "AS8674",
-            "size": 5,
-            "x": -17,
-            "y": 19
-        },
-        {
-            "attributes": {},
-            "color": "#C91F37",
-            "id": "AS7713",
-            "label": "AS7713",
+            "color": "#89729E",
+            "id": "CHT-I (TW)",
+            "label": "CHT-I (TW)",
             "size": 2,
-            "x": 6,
-            "y": -1
-        },
-        {
-            "attributes": {},
-            "color": "#E08A1E",
-            "id": "AS24187",
-            "label": "AS24187",
-            "size": 5,
-            "x": 7,
-            "y": -3
-        },
-        {
-            "attributes": {},
-            "color": "#2ABB9B",
-            "id": "AS3856",
-            "label": "AS3856",
-            "size": 4,
-            "x": 0,
+            "x": -18,
             "y": -4
         },
         {
             "attributes": {},
-            "color": "#049372",
-            "id": "AS4755",
-            "label": "AS4755",
-            "size": 1,
-            "x": -14,
-            "y": 0
-        },
-        {
-            "attributes": {},
-            "color": "#FFB61E",
-            "id": "AS9873",
-            "label": "AS9873",
-            "size": 2,
-            "x": -19,
-            "y": 12
-        },
-        {
-            "attributes": {},
-            "color": "#FFB94E",
-            "id": "AS6730",
-            "label": "AS6730",
-            "size": 3,
-            "x": 19,
-            "y": 6
-        },
-        {
-            "attributes": {},
-            "color": "#FFA631",
-            "id": "AS4826",
-            "label": "AS4826",
-            "size": 3,
-            "x": -16,
-            "y": -16
-        },
-        {
-            "attributes": {},
-            "color": "#7A942E",
-            "id": "AS43350",
-            "label": "AS43350",
-            "size": 1,
-            "x": 0,
-            "y": 4
-        },
-        {
-            "attributes": {},
             "color": "#26A65B",
-            "id": "AS7470",
-            "label": "AS7470",
-            "size": 2,
-            "x": -5,
+            "id": "Hurricane\u00a0\u00a0(HK)",
+            "label": "Hurricane\u00a0\u00a0(HK)",
+            "size": 1,
+            "x": 9,
+            "y": 3
+        },
+        {
+            "attributes": {},
+            "color": "#E29C45",
+            "id": "ATOM86 (NL)",
+            "label": "ATOM86 (NL)",
+            "size": 1,
+            "x": -13,
             "y": 7
         },
         {
             "attributes": {},
             "color": "#F4D03F",
-            "id": "AS8781",
-            "label": "AS8781",
-            "size": 2,
-            "x": 13,
-            "y": -18
-        },
-        {
-            "attributes": {},
-            "color": "#264348",
-            "id": "AS19324",
-            "label": "AS19324",
-            "size": 3,
-            "x": -4,
-            "y": -10
-        },
-        {
-            "attributes": {},
-            "color": "#22A7F0",
-            "id": "AS32787",
-            "label": "AS32787",
-            "size": 1,
-            "x": -14,
-            "y": -2
-        },
-        {
-            "attributes": {},
-            "color": "#264348",
-            "id": "AS135391",
-            "label": "AS135391",
-            "size": 1,
-            "x": 5,
-            "y": -6
-        },
-        {
-            "attributes": {},
-            "color": "#F5D76E",
-            "id": "AS17451",
-            "label": "AS17451",
-            "size": 3,
-            "x": -6,
-            "y": -16
-        },
-        {
-            "attributes": {},
-            "color": "#22A7F0",
-            "id": "AS8714",
-            "label": "AS8714",
-            "size": 2,
-            "x": -14,
-            "y": 17
-        },
-        {
-            "attributes": {},
-            "color": "#95A5A6",
-            "id": "AS42416",
-            "label": "AS42416",
-            "size": 1,
+            "id": "TATA (SG)",
+            "label": "TATA (SG)",
+            "size": 5,
             "x": -1,
-            "y": 0
+            "y": -7
         },
         {
             "attributes": {},
-            "color": "#36D7B7",
-            "id": "AS3786",
-            "label": "AS3786",
-            "size": 1,
-            "x": 16,
-            "y": 19
-        },
-        {
-            "attributes": {},
-            "color": "#DB5A6B",
-            "id": "AS3223",
-            "label": "AS3223",
-            "size": 3,
-            "x": -11,
-            "y": -19
+            "color": "#89C4F4",
+            "id": "KSC",
+            "label": "KSC",
+            "size": 2,
+            "x": 8,
+            "y": 8
         },
         {
             "attributes": {},
             "color": "#D24D57",
-            "id": "AS137248",
-            "label": "AS137248",
-            "size": 1,
-            "x": -5,
-            "y": -15
-        },
-        {
-            "attributes": {},
-            "color": "#A17917",
-            "id": "AS2686",
-            "label": "AS2686",
-            "size": 3,
-            "x": -2,
-            "y": -10
-        },
-        {
-            "attributes": {},
-            "color": "#16A085",
-            "id": "AS4635",
-            "label": "AS4635",
+            "id": "Telstra (SG)",
+            "label": "Telstra (SG)",
             "size": 5,
-            "x": 18,
-            "y": 2
-        },
-        {
-            "attributes": {},
-            "color": "#5D8CAE",
-            "id": "AS701",
-            "label": "AS701",
-            "size": 1,
             "x": 6,
-            "y": -14
+            "y": 7
         },
         {
             "attributes": {},
-            "color": "#7A942E",
-            "id": "AS3356",
-            "label": "AS3356",
-            "size": 5,
-            "x": -1,
-            "y": 15
-        },
-        {
-            "attributes": {},
-            "color": "#BFBFBF",
-            "id": "AS17666",
-            "label": "AS17666",
-            "size": 1,
-            "x": -12,
-            "y": -8
-        },
-        {
-            "attributes": {},
-            "color": "#C93756",
-            "id": "AS2516",
-            "label": "AS2516",
-            "size": 2,
-            "x": 1,
-            "y": 12
-        },
-        {
-            "attributes": {},
-            "color": "#59ABE3",
-            "id": "AS1299",
-            "label": "AS1299",
-            "size": 7,
-            "x": 1,
-            "y": -8
-        },
-        {
-            "attributes": {},
-            "color": "#5B8930",
-            "id": "AS21859",
-            "label": "AS21859",
-            "size": 4,
-            "x": -1,
-            "y": -3
-        },
-        {
-            "attributes": {},
-            "color": "#BF55EC",
-            "id": "AS15169",
-            "label": "AS15169",
-            "size": 15,
-            "x": -10,
-            "y": -15
-        },
-        {
-            "attributes": {},
-            "color": "#CF3A24",
-            "id": "AS8426",
-            "label": "AS8426",
-            "size": 4,
-            "x": -1,
-            "y": -20
-        },
-        {
-            "attributes": {},
-            "color": "#D9B611",
-            "id": "AS22822",
-            "label": "AS22822",
-            "size": 6,
-            "x": -8,
-            "y": 12
-        },
-        {
-            "attributes": {},
-            "color": "#F22613",
-            "id": "AS57976",
-            "label": "AS57976",
-            "size": 4,
-            "x": 11,
-            "y": -5
-        },
-        {
-            "attributes": {},
-            "color": "#F2F1EF",
-            "id": "AS27354",
-            "label": "AS27354",
+            "color": "#26C281",
+            "id": "MOE",
+            "label": "MOE",
             "size": 1,
             "x": 19,
-            "y": -2
+            "y": -12
         },
         {
             "attributes": {},
-            "color": "#F58F84",
-            "id": "AS65517",
-            "label": "AS65517",
-            "size": 2,
-            "x": 11,
-            "y": 9
-        },
-        {
-            "attributes": {},
-            "color": "#757D75",
-            "id": "AS45686",
-            "label": "AS45686",
+            "color": "#BDC3C7",
+            "id": "British Telecom (SG)",
+            "label": "British Telecom (SG)",
             "size": 1,
-            "x": 17,
-            "y": 3
+            "x": 6,
+            "y": -15
         },
         {
             "attributes": {},
-            "color": "#D9B611",
-            "id": "AS703",
-            "label": "AS703",
-            "size": 1,
-            "x": 18,
-            "y": 0
-        },
-        {
-            "attributes": {},
-            "color": "#757D75",
-            "id": "AS8455",
-            "label": "AS8455",
-            "size": 1,
-            "x": -5,
-            "y": 10
-        },
-        {
-            "attributes": {},
-            "color": "#89729E",
-            "id": "AS9269",
-            "label": "AS9269",
-            "size": 2,
-            "x": 11,
-            "y": 13
-        },
-        {
-            "attributes": {},
-            "color": "#8F1D21",
-            "id": "AS24490",
-            "label": "AS24490",
-            "size": 1,
-            "x": -5,
-            "y": -10
-        },
-        {
-            "attributes": {},
-            "color": "#8F1D21",
-            "id": "AS45328",
-            "label": "AS45328",
-            "size": 3,
-            "x": 14,
-            "y": 9
-        },
-        {
-            "attributes": {},
-            "color": "#FFB94E",
-            "id": "AS10026",
-            "label": "AS10026",
+            "color": "#003171",
+            "id": "Dosarest (SG)",
+            "label": "Dosarest (SG)",
             "size": 1,
             "x": -17,
             "y": -3
         },
         {
             "attributes": {},
-            "color": "#FFB3A7",
-            "id": "AS9416",
-            "label": "AS9416",
+            "color": "#9D2933",
+            "id": "Daliymotion (UK)",
+            "label": "Daliymotion (UK)",
             "size": 1,
-            "x": -15,
-            "y": 0
+            "x": 16,
+            "y": -18
         },
         {
             "attributes": {},
-            "color": "#264348",
-            "id": "AS1248",
-            "label": "AS1248",
+            "color": "#36D7B7",
+            "id": "GENIUSNETWORKS (UK)",
+            "label": "GENIUSNETWORKS (UK)",
             "size": 1,
-            "x": 7,
-            "y": 3
+            "x": 14,
+            "y": -16
+        },
+        {
+            "attributes": {},
+            "color": "#F4D03F",
+            "id": "Rackspace (HK)",
+            "label": "Rackspace (HK)",
+            "size": 1,
+            "x": 18,
+            "y": -18
+        },
+        {
+            "attributes": {},
+            "color": "#E29C45",
+            "id": "TCCT-ISP",
+            "label": "TCCT-ISP",
+            "size": 2,
+            "x": 10,
+            "y": -14
+        },
+        {
+            "attributes": {},
+            "color": "#FCC9B9",
+            "id": "1-Net (SG)",
+            "label": "1-Net (SG)",
+            "size": 1,
+            "x": -4,
+            "y": 18
+        },
+        {
+            "attributes": {},
+            "color": "#8DB255",
+            "id": "True Internet Corporation",
+            "label": "True Internet Corporation",
+            "size": 2,
+            "x": 18,
+            "y": -7
+        },
+        {
+            "attributes": {},
+            "color": "#875F9A",
+            "id": "Spotify (SG)",
+            "label": "Spotify (SG)",
+            "size": 1,
+            "x": -9,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#7A942E",
+            "id": "TOT ISP",
+            "label": "TOT ISP",
+            "size": 2,
+            "x": 13,
+            "y": 18
+        },
+        {
+            "attributes": {},
+            "color": "#F7CA18",
+            "id": "PTT ICT",
+            "label": "PTT ICT",
+            "size": 1,
+            "x": 20,
+            "y": -10
+        },
+        {
+            "attributes": {},
+            "color": "#CF3A24",
+            "id": "Level3\u00a0\u00a0(US)",
+            "label": "Level3\u00a0\u00a0(US)",
+            "size": 1,
+            "x": 10,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#95A5A6",
+            "id": "Moratelindo (SG",
+            "label": "Moratelindo (SG",
+            "size": 1,
+            "x": -2,
+            "y": -12
+        },
+        {
+            "attributes": {},
+            "color": "#ECF0F1",
+            "id": "Liquid Telecom (DE)",
+            "label": "Liquid Telecom (DE)",
+            "size": 1,
+            "x": -11,
+            "y": 1
+        },
+        {
+            "attributes": {},
+            "color": "#ECF0F1",
+            "id": "Pacnet (SG)",
+            "label": "Pacnet (SG)",
+            "size": 1,
+            "x": -15,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#03A678",
+            "id": "Catalyst2 (UK)",
+            "label": "Catalyst2 (UK)",
+            "size": 1,
+            "x": 4,
+            "y": -14
+        },
+        {
+            "attributes": {},
+            "color": "#8E44AD",
+            "id": "StarHub (SG)",
+            "label": "StarHub (SG)",
+            "size": 2,
+            "x": -17,
+            "y": -18
+        },
+        {
+            "attributes": {},
+            "color": "#9D2933",
+            "id": "Telenor (UK)",
+            "label": "Telenor (UK)",
+            "size": 1,
+            "x": 4,
+            "y": 8
+        },
+        {
+            "attributes": {},
+            "color": "#03A678",
+            "id": "Twitter (SG)",
+            "label": "Twitter (SG)",
+            "size": 4,
+            "x": -15,
+            "y": 8
         },
         {
             "attributes": {},
             "color": "#5B3256",
-            "id": "AS4739",
-            "label": "AS4739",
+            "id": "OpenDNS (SG)",
+            "label": "OpenDNS (SG)",
+            "size": 2,
+            "x": -18,
+            "y": -19
+        },
+        {
+            "attributes": {},
+            "color": "#89C4F4",
+            "id": "PLDT (PH)\u00a0",
+            "label": "PLDT (PH)\u00a0",
+            "size": 1,
+            "x": 16,
+            "y": 12
+        },
+        {
+            "attributes": {},
+            "color": "#1F4788",
+            "id": "Expereo (SG)",
+            "label": "Expereo (SG)",
+            "size": 2,
+            "x": -10,
+            "y": -6
+        },
+        {
+            "attributes": {},
+            "color": "#16A085",
+            "id": "PAIX (US)",
+            "label": "PAIX (US)",
+            "size": 1,
+            "x": -9,
+            "y": -17
+        },
+        {
+            "attributes": {},
+            "color": "#FFB94E",
+            "id": "DROPBOX (HK)",
+            "label": "DROPBOX (HK)",
+            "size": 1,
+            "x": -18,
+            "y": 14
+        },
+        {
+            "attributes": {},
+            "color": "#CA6924",
+            "id": "SG.GS (SG)",
+            "label": "SG.GS (SG)",
+            "size": 3,
+            "x": -10,
+            "y": 19
+        },
+        {
+            "attributes": {},
+            "color": "#ABB7B7",
+            "id": "LINX (UK)",
+            "label": "LINX (UK)",
+            "size": 4,
+            "x": 7,
+            "y": 20
+        },
+        {
+            "attributes": {},
+            "color": "#049372",
+            "id": "Beeline (LA)",
+            "label": "Beeline (LA)",
+            "size": 1,
+            "x": 13,
+            "y": 12
+        },
+        {
+            "attributes": {},
+            "color": "#9B59B6",
+            "id": "Globe Telecom (SG)",
+            "label": "Globe Telecom (SG)",
+            "size": 1,
+            "x": -9,
+            "y": 8
+        },
+        {
+            "attributes": {},
+            "color": "#8F1D21",
+            "id": "Edgecast (SG)",
+            "label": "Edgecast (SG)",
+            "size": 1,
+            "x": 12,
+            "y": -11
+        },
+        {
+            "attributes": {},
+            "color": "#D2D7D3",
+            "id": "CloudFlare (SG)",
+            "label": "CloudFlare (SG)",
+            "size": 5,
+            "x": 20,
+            "y": -7
+        },
+        {
+            "attributes": {},
+            "color": "#F9690E",
+            "id": "Dropbox (SG)",
+            "label": "Dropbox (SG)",
+            "size": 2,
+            "x": 8,
+            "y": 14
+        },
+        {
+            "attributes": {},
+            "color": "#26C281",
+            "id": "Dropbox (NL)",
+            "label": "Dropbox (NL)",
+            "size": 1,
+            "x": -20,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#044F67",
+            "id": "Telstra (HK)",
+            "label": "Telstra (HK)",
+            "size": 1,
+            "x": -10,
+            "y": 13
+        },
+        {
+            "attributes": {},
+            "color": "#FAA945",
+            "id": "Mainsoft (NL)",
+            "label": "Mainsoft (NL)",
+            "size": 1,
+            "x": -17,
+            "y": 11
+        },
+        {
+            "attributes": {},
+            "color": "#F5D76E",
+            "id": "GTT (UK)",
+            "label": "GTT (UK)",
+            "size": 1,
+            "x": -4,
+            "y": 11
+        },
+        {
+            "attributes": {},
+            "color": "#7A942E",
+            "id": "1&1 Internet (NL)",
+            "label": "1&1 Internet (NL)",
+            "size": 1,
+            "x": 7,
+            "y": 15
+        },
+        {
+            "attributes": {},
+            "color": "#9B59B6",
+            "id": "Zen Internet (UK)",
+            "label": "Zen Internet (UK)",
+            "size": 1,
+            "x": 17,
+            "y": -14
+        },
+        {
+            "attributes": {},
+            "color": "#FFB3A7",
+            "id": "SKB (KR)",
+            "label": "SKB (KR)",
+            "size": 1,
+            "x": -16,
+            "y": -8
+        },
+        {
+            "attributes": {},
+            "color": "#F58F84",
+            "id": "Limelight (US)",
+            "label": "Limelight (US)",
             "size": 1,
             "x": -7,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#5B8930",
+            "id": "OPENCARRIER (DE)",
+            "label": "OPENCARRIER (DE)",
+            "size": 1,
+            "x": 0,
+            "y": -11
+        },
+        {
+            "attributes": {},
+            "color": "#19B5FE",
+            "id": "UniNet",
+            "label": "UniNet",
+            "size": 1,
+            "x": -12,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#4DAF7C",
+            "id": "Hurricane Electric (SG)",
+            "label": "Hurricane Electric (SG)",
+            "size": 1,
+            "x": 17,
+            "y": -8
+        },
+        {
+            "attributes": {},
+            "color": "#59ABE3",
+            "id": "SINET (SG)",
+            "label": "SINET (SG)",
+            "size": 1,
+            "x": -14,
+            "y": -16
+        },
+        {
+            "attributes": {},
+            "color": "#FFA631",
+            "id": "Zenlayer (HK)",
+            "label": "Zenlayer (HK)",
+            "size": 1,
+            "x": -4,
+            "y": -9
+        },
+        {
+            "attributes": {},
+            "color": "#4D8FAC",
+            "id": "PCH (UK)",
+            "label": "PCH (UK)",
+            "size": 1,
+            "x": 7,
+            "y": -8
+        },
+        {
+            "attributes": {},
+            "color": "#E29C45",
+            "id": "Cloudflare (SG)",
+            "label": "Cloudflare (SG)",
+            "size": 2,
+            "x": -15,
+            "y": -20
+        },
+        {
+            "attributes": {},
+            "color": "#D2D7D3",
+            "id": "MyRepublic (SG)",
+            "label": "MyRepublic (SG)",
+            "size": 2,
+            "x": -6,
+            "y": 12
+        },
+        {
+            "attributes": {},
+            "color": "#87D37C",
+            "id": "1&1 Internet (DE)",
+            "label": "1&1 Internet (DE)",
+            "size": 1,
+            "x": 2,
+            "y": -17
+        },
+        {
+            "attributes": {},
+            "color": "#DB5A6B",
+            "id": "CNS-KBT (HK)",
+            "label": "CNS-KBT (HK)",
+            "size": 1,
+            "x": 17,
+            "y": 6
+        },
+        {
+            "attributes": {},
+            "color": "#E2B13C",
+            "id": "Voxility (UK)",
+            "label": "Voxility (UK)",
+            "size": 1,
+            "x": 15,
+            "y": 7
+        },
+        {
+            "attributes": {},
+            "color": "#95A5A6",
+            "id": "GTC (MY)",
+            "label": "GTC (MY)",
+            "size": 3,
+            "x": 6,
+            "y": -1
+        },
+        {
+            "attributes": {},
+            "color": "#A87CA0",
+            "id": "NewMedia Express(SG)",
+            "label": "NewMedia Express(SG)",
+            "size": 1,
+            "x": 9,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#BDC3C7",
+            "id": "Atlantic Metro (US)",
+            "label": "Atlantic Metro (US)",
+            "size": 1,
+            "x": -3,
+            "y": 9
+        },
+        {
+            "attributes": {},
+            "color": "#D24D57",
+            "id": "CHT (HK)",
+            "label": "CHT (HK)",
+            "size": 2,
+            "x": 5,
+            "y": -13
+        },
+        {
+            "attributes": {},
+            "color": "#F7CA18",
+            "id": "Dailymotion (SG)",
+            "label": "Dailymotion (SG)",
+            "size": 3,
+            "x": 7,
+            "y": -9
+        },
+        {
+            "attributes": {},
+            "color": "#CF000F",
+            "id": "NTT APAC (HK)",
+            "label": "NTT APAC (HK)",
+            "size": 1,
+            "x": 13,
+            "y": 12
+        },
+        {
+            "attributes": {},
+            "color": "#F3C13A",
+            "id": "Level3 GBLX (SG)",
+            "label": "Level3 GBLX (SG)",
+            "size": 1,
+            "x": -18,
+            "y": 7
+        },
+        {
+            "attributes": {},
+            "color": "#EEEEEE",
+            "id": "NYIIX (US)",
+            "label": "NYIIX (US)",
+            "size": 1,
+            "x": -10,
+            "y": -13
+        },
+        {
+            "attributes": {},
+            "color": "#763568",
+            "id": "NHN (SG)",
+            "label": "NHN (SG)",
+            "size": 6,
+            "x": -12,
+            "y": -13
+        },
+        {
+            "attributes": {},
+            "color": "#8D608C",
+            "id": "Cogent (FR)",
+            "label": "Cogent (FR)",
+            "size": 1,
+            "x": -8,
+            "y": 15
+        },
+        {
+            "attributes": {},
+            "color": "#22A7F0",
+            "id": "Forcepoint (SG)",
+            "label": "Forcepoint (SG)",
+            "size": 1,
+            "x": -16,
+            "y": 20
+        },
+        {
+            "attributes": {},
+            "color": "#DC3023",
+            "id": "OTARO",
+            "label": "OTARO",
+            "size": 1,
+            "x": 3,
+            "y": -2
+        },
+        {
+            "attributes": {},
+            "color": "#26C281",
+            "id": "Twitch(SG)",
+            "label": "Twitch(SG)",
+            "size": 1,
+            "x": -2,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#A87CA0",
+            "id": "PLEX (NL)",
+            "label": "PLEX (NL)",
+            "size": 1,
+            "x": -19,
+            "y": -14
+        },
+        {
+            "attributes": {},
+            "color": "#C93756",
+            "id": "C&W (FR)",
+            "label": "C&W (FR)",
+            "size": 1,
+            "x": 15,
+            "y": 6
+        },
+        {
+            "attributes": {},
+            "color": "#8D608C",
+            "id": "CLARA (UK)",
+            "label": "CLARA (UK)",
+            "size": 1,
+            "x": -17,
+            "y": -7
+        },
+        {
+            "attributes": {},
+            "color": "#F3C13A",
+            "id": "France IX (Fr)",
+            "label": "France IX (Fr)",
+            "size": 1,
+            "x": 14,
+            "y": 14
+        },
+        {
+            "attributes": {},
+            "color": "#317589",
+            "id": "Biznet (SG)",
+            "label": "Biznet (SG)",
+            "size": 2,
+            "x": 17,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#FFB94E",
+            "id": "Hurrican (SG)",
+            "label": "Hurrican (SG)",
+            "size": 1,
+            "x": 0,
+            "y": -11
+        },
+        {
+            "attributes": {},
+            "color": "#003171",
+            "id": "ISSP",
+            "label": "ISSP",
+            "size": 1,
+            "x": -3,
+            "y": -10
+        },
+        {
+            "attributes": {},
+            "color": "#CA6924",
+            "id": "SIAMDATA",
+            "label": "SIAMDATA",
+            "size": 2,
+            "x": -18,
+            "y": -14
+        },
+        {
+            "attributes": {},
+            "color": "#5B3256",
+            "id": "1&1 Internet (UK)",
+            "label": "1&1 Internet (UK)",
+            "size": 1,
+            "x": 4,
+            "y": -7
+        },
+        {
+            "attributes": {},
+            "color": "#049372",
+            "id": "Media Net (SG)",
+            "label": "Media Net (SG)",
+            "size": 2,
+            "x": 18,
+            "y": -10
+        },
+        {
+            "attributes": {},
+            "color": "#F47983",
+            "id": "GTT (SG)\u00a0",
+            "label": "GTT (SG)\u00a0",
+            "size": 1,
+            "x": 1,
+            "y": -20
+        },
+        {
+            "attributes": {},
+            "color": "#CA6924",
+            "id": "LINX (UK)",
+            "label": "LINX (UK)",
+            "size": 4,
+            "x": 0,
             "y": -1
         },
         {
             "attributes": {},
             "color": "#EEEEEE",
-            "id": "AS132203",
-            "label": "AS132203",
-            "size": 1,
-            "x": 15,
-            "y": 10
-        },
-        {
-            "attributes": {},
-            "color": "#03A678",
-            "id": "AS8966",
-            "label": "AS8966",
-            "size": 4,
-            "x": 16,
-            "y": 16
-        },
-        {
-            "attributes": {},
-            "color": "#8E44AD",
-            "id": "AS17660",
-            "label": "AS17660",
-            "size": 1,
-            "x": 4,
-            "y": 19
-        },
-        {
-            "attributes": {},
-            "color": "#FFA400",
-            "id": "AS174",
-            "label": "AS174",
-            "size": 6,
-            "x": -19,
-            "y": 16
-        },
-        {
-            "attributes": {},
-            "color": "#D2D7D3",
-            "id": "AS3300",
-            "label": "AS3300",
-            "size": 1,
-            "x": -3,
-            "y": 11
-        },
-        {
-            "attributes": {},
-            "color": "#A87CA0",
-            "id": "AS36692",
-            "label": "AS36692",
-            "size": 2,
-            "x": 20,
-            "y": 13
-        },
-        {
-            "attributes": {},
-            "color": "#CF000F",
-            "id": "AS55511",
-            "label": "AS55511",
-            "size": 1,
-            "x": 2,
-            "y": -7
-        },
-        {
-            "attributes": {},
-            "color": "#E68364",
-            "id": "AS45758",
-            "label": "AS45758",
-            "size": 20,
-            "x": -2,
-            "y": 12
-        },
-        {
-            "attributes": {},
-            "color": "#E68364",
-            "id": "AS38794",
-            "label": "AS38794",
-            "size": 4,
-            "x": 14,
-            "y": -11
-        },
-        {
-            "attributes": {},
-            "color": "#006442",
-            "id": "AS59360",
-            "label": "AS59360",
-            "size": 5,
-            "x": 3,
-            "y": 8
-        },
-        {
-            "attributes": {},
-            "color": "#264348",
-            "id": "AS6695",
-            "label": "AS6695",
-            "size": 4,
-            "x": -20,
-            "y": 18
-        },
-        {
-            "attributes": {},
-            "color": "#F9690E",
-            "id": "AS24482",
-            "label": "AS24482",
-            "size": 3,
-            "x": 9,
-            "y": 18
-        },
-        {
-            "attributes": {},
-            "color": "#F5D76E",
-            "id": "AS61955",
-            "label": "AS61955",
-            "size": 1,
-            "x": 11,
-            "y": -16
-        },
-        {
-            "attributes": {},
-            "color": "#95A5A6",
-            "id": "AS13335",
-            "label": "AS13335",
-            "size": 7,
-            "x": 14,
-            "y": 0
-        },
-        {
-            "attributes": {},
-            "color": "#FCC9B9",
-            "id": "AS9304",
-            "label": "AS9304",
-            "size": 4,
-            "x": -16,
-            "y": 14
-        },
-        {
-            "attributes": {},
-            "color": "#5D8CAE",
-            "id": "AS23947",
-            "label": "AS23947",
-            "size": 2,
-            "x": 18,
-            "y": -2
-        },
-        {
-            "attributes": {},
-            "color": "#BF55EC",
-            "id": "AS714",
-            "label": "AS714",
-            "size": 7,
-            "x": -11,
-            "y": 12
-        },
-        {
-            "attributes": {},
-            "color": "#5B3256",
-            "id": "AS8071",
-            "label": "AS8071",
-            "size": 1,
-            "x": -5,
-            "y": 8
-        },
-        {
-            "attributes": {},
-            "color": "#A17917",
-            "id": "AS36408",
-            "label": "AS36408",
-            "size": 4,
-            "x": 18,
-            "y": 6
-        },
-        {
-            "attributes": {},
-            "color": "#F2F1EF",
-            "id": "AS4618",
-            "label": "AS4618",
-            "size": 6,
-            "x": -15,
-            "y": 14
-        },
-        {
-            "attributes": {},
-            "color": "#F58F84",
-            "id": "AS13538",
-            "label": "AS13538",
-            "size": 1,
-            "x": -15,
-            "y": 9
-        },
-        {
-            "attributes": {},
-            "color": "#22A7F0",
-            "id": "AS23576",
-            "label": "AS23576",
-            "size": 7,
-            "x": 18,
-            "y": 0
-        },
-        {
-            "attributes": {},
-            "color": "#8E44AD",
-            "id": "AS133165",
-            "label": "AS133165",
-            "size": 3,
-            "x": -15,
-            "y": -13
-        },
-        {
-            "attributes": {},
-            "color": "#2ABB9B",
-            "id": "AS45352",
-            "label": "AS45352",
-            "size": 3,
-            "x": -8,
-            "y": -6
-        },
-        {
-            "attributes": {},
-            "color": "#DB5A6B",
-            "id": "AS12759",
-            "label": "AS12759",
-            "size": 3,
-            "x": 20,
-            "y": 20
-        },
-        {
-            "attributes": {},
-            "color": "#26C281",
-            "id": "AS21321",
-            "label": "AS21321",
-            "size": 1,
-            "x": -16,
-            "y": 12
-        },
-        {
-            "attributes": {},
-            "color": "#36D7B7",
-            "id": "AS4657",
-            "label": "AS4657",
-            "size": 3,
-            "x": -8,
-            "y": -20
-        },
-        {
-            "attributes": {},
-            "color": "#D24D57",
-            "id": "AS24115",
-            "label": "AS24115",
-            "size": 13,
-            "x": 18,
-            "y": 12
-        },
-        {
-            "attributes": {},
-            "color": "#FFB61E",
-            "id": "AS29636",
-            "label": "AS29636",
-            "size": 1,
-            "x": 10,
-            "y": -18
-        },
-        {
-            "attributes": {},
-            "color": "#D2D7D3",
-            "id": "AS7473",
-            "label": "AS7473",
-            "size": 6,
-            "x": -4,
-            "y": 17
-        },
-        {
-            "attributes": {},
-            "color": "#ECF0F1",
-            "id": "AS20773",
-            "label": "AS20773",
-            "size": 2,
-            "x": -8,
-            "y": 9
-        },
-        {
-            "attributes": {},
-            "color": "#26A65B",
-            "id": "AS4621",
-            "label": "AS4621",
-            "size": 2,
-            "x": -17,
-            "y": -10
-        },
-        {
-            "attributes": {},
-            "color": "#875F9A",
-            "id": "AS4750",
-            "label": "AS4750",
-            "size": 1,
-            "x": -3,
-            "y": -7
-        },
-        {
-            "attributes": {},
-            "color": "#16A085",
-            "id": "AS18106",
-            "label": "AS18106",
-            "size": 3,
-            "x": 11,
-            "y": -11
-        },
-        {
-            "attributes": {},
-            "color": "#049372",
-            "id": "AS29791",
-            "label": "AS29791",
-            "size": 2,
-            "x": 17,
-            "y": 19
-        },
-        {
-            "attributes": {},
-            "color": "#BDC3C7",
-            "id": "AS9150",
-            "label": "AS9150",
+            "id": "GlobalNet (MM)",
+            "label": "GlobalNet (MM)",
             "size": 1,
             "x": -17,
-            "y": 14
-        },
-        {
-            "attributes": {},
-            "color": "#5B3256",
-            "id": "AS63399",
-            "label": "AS63399",
-            "size": 1,
-            "x": 8,
-            "y": 4
-        },
-        {
-            "attributes": {},
-            "color": "#DB5A6B",
-            "id": "AS45474",
-            "label": "AS45474",
-            "size": 2,
-            "x": 15,
-            "y": -14
-        },
-        {
-            "attributes": {},
-            "color": "#8F1D21",
-            "id": "AS45223",
-            "label": "AS45223",
-            "size": 1,
-            "x": 2,
-            "y": -4
-        },
-        {
-            "attributes": {},
-            "color": "#5B8930",
-            "id": "AS57344",
-            "label": "AS57344",
-            "size": 1,
-            "x": -7,
-            "y": 2
-        },
-        {
-            "attributes": {},
-            "color": "#9D2933",
-            "id": "AS45634",
-            "label": "AS45634",
-            "size": 3,
-            "x": -7,
-            "y": 15
-        },
-        {
-            "attributes": {},
-            "color": "#F58F84",
-            "id": "AS9299",
-            "label": "AS9299",
-            "size": 1,
-            "x": -8,
             "y": -9
         },
         {
             "attributes": {},
-            "color": "#1F4788",
-            "id": "AS45413",
-            "label": "AS45413",
-            "size": 1,
-            "x": -4,
-            "y": 13
-        },
-        {
-            "attributes": {},
-            "color": "#003171",
-            "id": "AS38726",
-            "label": "AS38726",
-            "size": 1,
-            "x": 15,
-            "y": -3
-        },
-        {
-            "attributes": {},
-            "color": "#317589",
-            "id": "AS58511",
-            "label": "AS58511",
-            "size": 1,
-            "x": 4,
-            "y": 7
-        },
-        {
-            "attributes": {},
-            "color": "#C3272B",
-            "id": "AS3257",
-            "label": "AS3257",
-            "size": 3,
-            "x": -12,
-            "y": -11
-        },
-        {
-            "attributes": {},
             "color": "#D2D7D3",
-            "id": "AS56190",
-            "label": "AS56190",
+            "id": "XLNET (SG)",
+            "label": "XLNET (SG)",
             "size": 1,
-            "x": 13,
-            "y": -10
-        },
-        {
-            "attributes": {},
-            "color": "#F9690E",
-            "id": "AS7693",
-            "label": "AS7693",
-            "size": 2,
-            "x": 1,
-            "y": 7
-        },
-        {
-            "attributes": {},
-            "color": "#95A5A6",
-            "id": "AS10310",
-            "label": "AS10310",
-            "size": 6,
-            "x": 14,
-            "y": 0
-        },
-        {
-            "attributes": {},
-            "color": "#C3272B",
-            "id": "AS3303",
-            "label": "AS3303",
-            "size": 3,
-            "x": -15,
-            "y": 12
-        },
-        {
-            "attributes": {},
-            "color": "#A87CA0",
-            "id": "AS8403",
-            "label": "AS8403",
-            "size": 1,
-            "x": -13,
-            "y": 17
-        },
-        {
-            "attributes": {},
-            "color": "#7A942E",
-            "id": "AS134166",
-            "label": "AS134166",
-            "size": 1,
-            "x": 1,
-            "y": 6
-        },
-        {
-            "attributes": {},
-            "color": "#BE90D4",
-            "id": "AS16276",
-            "label": "AS16276",
-            "size": 2,
-            "x": -6,
-            "y": 2
-        },
-        {
-            "attributes": {},
-            "color": "#26A65B",
-            "id": "AS34307",
-            "label": "AS34307",
-            "size": 1,
-            "x": -9,
-            "y": 11
-        },
-        {
-            "attributes": {},
-            "color": "#BDC3C7",
-            "id": "AS4637",
-            "label": "AS4637",
-            "size": 7,
-            "x": -9,
-            "y": -4
-        },
-        {
-            "attributes": {},
-            "color": "#36D7B7",
-            "id": "AS8560",
-            "label": "AS8560",
-            "size": 3,
-            "x": -16,
-            "y": -6
-        },
-        {
-            "attributes": {},
-            "color": "#26A65B",
-            "id": "AS24218",
-            "label": "AS24218",
-            "size": 6,
-            "x": 9,
-            "y": 6
-        },
-        {
-            "attributes": {},
-            "color": "#FFB3A7",
-            "id": "AS9318",
-            "label": "AS9318",
-            "size": 1,
-            "x": 5,
+            "x": 19,
             "y": -20
         },
         {
             "attributes": {},
-            "color": "#BFBFBF",
-            "id": "AS29140",
-            "label": "AS29140",
+            "color": "#C91F37",
+            "id": "Tencent (SG)",
+            "label": "Tencent (SG)",
             "size": 1,
-            "x": 0,
-            "y": 2
-        },
-        {
-            "attributes": {},
-            "color": "#ABB7B7",
-            "id": "AS5639",
-            "label": "AS5639",
-            "size": 1,
-            "x": 18,
-            "y": 1
-        },
-        {
-            "attributes": {},
-            "color": "#26C281",
-            "id": "AS2906",
-            "label": "AS2906",
-            "size": 9,
-            "x": -2,
-            "y": -19
-        },
-        {
-            "attributes": {},
-            "color": "#8F1D21",
-            "id": "AS38040",
-            "label": "AS38040",
-            "size": 44,
-            "x": -14,
-            "y": -15
-        },
-        {
-            "attributes": {},
-            "color": "#6C7A89",
-            "id": "AS7616",
-            "label": "AS7616",
-            "size": 1,
-            "x": -12,
-            "y": 16
-        },
-        {
-            "attributes": {},
-            "color": "#317589",
-            "id": "AS38901",
-            "label": "AS38901",
-            "size": 1,
-            "x": 9,
-            "y": -11
-        },
-        {
-            "attributes": {},
-            "color": "#FFB61E",
-            "id": "AS23969",
-            "label": "AS23969",
-            "size": 2,
-            "x": 7,
-            "y": 13
-        },
-        {
-            "attributes": {},
-            "color": "#BE90D4",
-            "id": "AS4809",
-            "label": "AS4809",
-            "size": 2,
-            "x": 1,
-            "y": -8
-        },
-        {
-            "attributes": {},
-            "color": "#F3C13A",
-            "id": "AS9587",
-            "label": "AS9587",
-            "size": 1,
-            "x": -3,
-            "y": -14
-        },
-        {
-            "attributes": {},
-            "color": "#E2B13C",
-            "id": "AS131293\u00a0",
-            "label": "AS131293\u00a0",
-            "size": 1,
-            "x": 9,
-            "y": -4
-        },
-        {
-            "attributes": {},
-            "color": "#48929B",
-            "id": "AS17676",
-            "label": "AS17676",
-            "size": 2,
-            "x": -2,
-            "y": -15
-        },
-        {
-            "attributes": {},
-            "color": "#DC3023",
-            "id": "AS15695",
-            "label": "AS15695",
-            "size": 4,
-            "x": -12,
-            "y": 11
-        },
-        {
-            "attributes": {},
-            "color": "#5B8930",
-            "id": "AS2687",
-            "label": "AS2687",
-            "size": 3,
-            "x": 9,
+            "x": 3,
             "y": -12
         },
         {
             "attributes": {},
-            "color": "#19B5FE",
-            "id": "AS38621",
-            "label": "AS38621",
+            "color": "#875F9A",
+            "id": "LG DACOM (KR)",
+            "label": "LG DACOM (KR)",
             "size": 1,
-            "x": -12,
+            "x": -17,
             "y": -8
         },
         {
             "attributes": {},
-            "color": "#4DAF7C",
-            "id": "AS45899",
-            "label": "AS45899",
+            "color": "#89C4F4",
+            "id": "ZSCALER (SG)",
+            "label": "ZSCALER (SG)",
             "size": 1,
-            "x": 8,
-            "y": -14
-        },
-        {
-            "attributes": {},
-            "color": "#BE90D4",
-            "id": "AS200052",
-            "label": "AS200052",
-            "size": 2,
-            "x": 8,
-            "y": 2
-        },
-        {
-            "attributes": {},
-            "color": "#5D3F6A",
-            "id": "AS4788",
-            "label": "AS4788",
-            "size": 3,
-            "x": -13,
+            "x": 17,
             "y": -17
         },
         {
             "attributes": {},
-            "color": "#8D608C",
-            "id": "AS2119",
-            "label": "AS2119",
-            "size": 3,
-            "x": 15,
-            "y": -11
-        },
-        {
-            "attributes": {},
-            "color": "#FFA631",
-            "id": "AS58430",
-            "label": "AS58430",
-            "size": 42,
-            "x": -20,
-            "y": 19
-        },
-        {
-            "attributes": {},
-            "color": "#FFB94E",
-            "id": "AS33891",
-            "label": "AS33891",
-            "size": 2,
-            "x": 15,
-            "y": -12
-        },
-        {
-            "attributes": {},
-            "color": "#CF3A24",
-            "id": "AS7598",
-            "label": "AS7598",
-            "size": 1,
-            "x": 5,
-            "y": 0
-        },
-        {
-            "attributes": {},
-            "color": "#C91F37",
-            "id": "AS18013",
-            "label": "AS18013",
-            "size": 1,
-            "x": -15,
-            "y": 15
-        },
-        {
-            "attributes": {},
-            "color": "#FFB3A7",
-            "id": "AS6762",
-            "label": "AS6762",
-            "size": 3,
-            "x": -5,
-            "y": -7
-        },
-        {
-            "attributes": {},
-            "color": "#F47983",
-            "id": "AS134509",
-            "label": "AS134509",
-            "size": 2,
-            "x": -14,
-            "y": 6
-        },
-        {
-            "attributes": {},
-            "color": "#DC3023",
-            "id": "AS4741",
-            "label": "AS4741",
-            "size": 3,
-            "x": 2,
-            "y": -8
-        },
-        {
-            "attributes": {},
-            "color": "#1F4788",
-            "id": "AS30844",
-            "label": "AS30844",
-            "size": 3,
-            "x": 13,
-            "y": 20
-        },
-        {
-            "attributes": {},
-            "color": "#A87CA0",
-            "id": "AS21478",
-            "label": "AS21478",
-            "size": 1,
-            "x": -14,
-            "y": 12
-        },
-        {
-            "attributes": {},
-            "color": "#4D8FAC",
-            "id": "AS9226",
-            "label": "AS9226",
-            "size": 1,
-            "x": -7,
-            "y": -6
-        },
-        {
-            "attributes": {},
-            "color": "#F08F907",
-            "id": "AS132513",
-            "label": "AS132513",
-            "size": 1,
-            "x": 19,
-            "y": 16
-        },
-        {
-            "attributes": {},
-            "color": "#FFB61E",
-            "id": "AS10089",
-            "label": "AS10089",
-            "size": 40,
-            "x": 10,
-            "y": -14
-        },
-        {
-            "attributes": {},
-            "color": "#26A65B",
-            "id": "AS7654",
-            "label": "AS7654",
-            "size": 1,
-            "x": -1,
-            "y": 0
-        },
-        {
-            "attributes": {},
-            "color": "#C93756",
-            "id": "AS131293",
-            "label": "AS131293",
-            "size": 1,
-            "x": -11,
-            "y": -10
-        },
-        {
-            "attributes": {},
-            "color": "#4DAF7C",
-            "id": "AS13037",
-            "label": "AS13037",
-            "size": 1,
-            "x": -13,
-            "y": 11
-        },
-        {
-            "attributes": {},
-            "color": "#006442",
-            "id": "AS6939",
-            "label": "AS6939",
-            "size": 11,
-            "x": -12,
-            "y": -4
-        },
-        {
-            "attributes": {},
-            "color": "#6C7A89",
-            "id": "AS14413",
-            "label": "AS14413",
-            "size": 3,
-            "x": 6,
-            "y": 5
-        },
-        {
-            "attributes": {},
-            "color": "#FAA945",
-            "id": "AS14907",
-            "label": "AS14907",
-            "size": 1,
-            "x": 20,
-            "y": 20
-        },
-        {
-            "attributes": {},
             "color": "#5B8930",
-            "id": "AS36236",
-            "label": "AS36236",
-            "size": 2,
-            "x": 9,
-            "y": 20
-        },
-        {
-            "attributes": {},
-            "color": "#19B5FE",
-            "id": "AS6461",
-            "label": "AS6461",
+            "id": "SecureAX (SG)",
+            "label": "SecureAX (SG)",
             "size": 1,
-            "x": 4,
-            "y": -16
-        },
-        {
-            "attributes": {},
-            "color": "#6B9362",
-            "id": "AS45558",
-            "label": "AS45558",
-            "size": 1,
-            "x": -14,
-            "y": -13
-        },
-        {
-            "attributes": {},
-            "color": "#F58F84",
-            "id": "AS37662",
-            "label": "AS37662",
-            "size": 3,
-            "x": -1,
-            "y": -14
-        },
-        {
-            "attributes": {},
-            "color": "#E29C45",
-            "id": "AS18403",
-            "label": "AS18403",
-            "size": 2,
-            "x": -6,
-            "y": -15
-        },
-        {
-            "attributes": {},
-            "color": "#FFA631",
-            "id": "AS58879",
-            "label": "AS58879",
-            "size": 1,
-            "x": 8,
-            "y": 16
-        },
-        {
-            "attributes": {},
-            "color": "#03A678",
-            "id": "AS32590",
-            "label": "AS32590",
-            "size": 9,
-            "x": -5,
-            "y": -14
-        },
-        {
-            "attributes": {},
-            "color": "#FFB94E",
-            "id": "AS10226",
-            "label": "AS10226",
-            "size": 2,
-            "x": -17,
-            "y": -12
-        },
-        {
-            "attributes": {},
-            "color": "#5D3F6A",
-            "id": "AS23927",
-            "label": "AS23927",
-            "size": 1,
-            "x": 16,
-            "y": -15
-        },
-        {
-            "attributes": {},
-            "color": "#757D75",
-            "id": "AS4775",
-            "label": "AS4775",
-            "size": 1,
-            "x": 19,
-            "y": 6
-        },
-        {
-            "attributes": {},
-            "color": "#A17917",
-            "id": "AS51706",
-            "label": "AS51706",
-            "size": 3,
-            "x": -14,
-            "y": 7
-        },
-        {
-            "attributes": {},
-            "color": "#16A085",
-            "id": "AS1200",
-            "label": "AS1200",
-            "size": 3,
-            "x": -6,
-            "y": 18
-        },
-        {
-            "attributes": {},
-            "color": "#F62459",
-            "id": "AS63516",
-            "label": "AS63516",
-            "size": 2,
-            "x": -16,
-            "y": 1
-        },
-        {
-            "attributes": {},
-            "color": "#87D37C",
-            "id": "AS7642",
-            "label": "AS7642",
-            "size": 1,
-            "x": -20,
-            "y": 15
-        },
-        {
-            "attributes": {},
-            "color": "#CF3A24",
-            "id": "AS133500",
-            "label": "AS133500",
-            "size": 1,
-            "x": -16,
-            "y": 3
-        },
-        {
-            "attributes": {},
-            "color": "#C93756",
-            "id": "AS9931",
-            "label": "AS9931",
-            "size": 6,
-            "x": 19,
-            "y": 14
-        },
-        {
-            "attributes": {},
-            "color": "#D24D57",
-            "id": "AS131267",
-            "label": "AS131267",
-            "size": 2,
-            "x": -19,
-            "y": 17
-        },
-        {
-            "attributes": {},
-            "color": "#36D7B7",
-            "id": "AS9505",
-            "label": "AS9505",
-            "size": 6,
-            "x": -8,
-            "y": -10
-        },
-        {
-            "attributes": {},
-            "color": "#D24D57",
-            "id": "AS46489",
-            "label": "AS46489",
-            "size": 9,
-            "x": -15,
-            "y": 11
-        },
-        {
-            "attributes": {},
-            "color": "#044F67",
-            "id": "AS6453",
-            "label": "AS6453",
-            "size": 8,
-            "x": -13,
-            "y": 16
-        },
-        {
-            "attributes": {},
-            "color": "#FFB94E",
-            "id": "AS36351",
-            "label": "AS36351",
-            "size": 5,
-            "x": 19,
-            "y": -7
-        },
-        {
-            "attributes": {},
-            "color": "#36D7B7",
-            "id": "AS46786",
-            "label": "AS46786",
-            "size": 2,
-            "x": -11,
-            "y": 20
-        },
-        {
-            "attributes": {},
-            "color": "#4B77BE",
-            "id": "AS54994",
-            "label": "AS54994",
-            "size": 1,
-            "x": -12,
-            "y": -6
-        },
-        {
-            "attributes": {},
-            "color": "#8DB255",
-            "id": "AS9381",
-            "label": "AS9381",
-            "size": 1,
-            "x": -7,
-            "y": -19
+            "x": 17,
+            "y": -17
         },
         {
             "attributes": {},
             "color": "#9B59B6",
-            "id": "AS55818",
-            "label": "AS55818",
+            "id": "GENIUSNETWORKS (DE)",
+            "label": "GENIUSNETWORKS (DE)",
+            "size": 1,
+            "x": -6,
+            "y": -13
+        },
+        {
+            "attributes": {},
+            "color": "#DB5A6B",
+            "id": "TOT-IIG",
+            "label": "TOT-IIG",
+            "size": 1,
+            "x": 7,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#8DB255",
+            "id": "Equinix-SJC (US)",
+            "label": "Equinix-SJC (US)",
+            "size": 2,
+            "x": 4,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#8DB255",
+            "id": "ETL (LA)",
+            "label": "ETL (LA)",
+            "size": 2,
+            "x": 14,
+            "y": -7
+        },
+        {
+            "attributes": {},
+            "color": "#E68364",
+            "id": "Netrouting (UK)",
+            "label": "Netrouting (UK)",
+            "size": 1,
+            "x": -4,
+            "y": -14
+        },
+        {
+            "attributes": {},
+            "color": "#D2D7D3",
+            "id": "EdgeCast  (SG)",
+            "label": "EdgeCast  (SG)",
+            "size": 1,
+            "x": -14,
+            "y": 6
+        },
+        {
+            "attributes": {},
+            "color": "#5B8930",
+            "id": "Twicth (UK)",
+            "label": "Twicth (UK)",
+            "size": 1,
+            "x": 2,
+            "y": 14
+        },
+        {
+            "attributes": {},
+            "color": "#DC3023",
+            "id": "Leaseweb (HK)",
+            "label": "Leaseweb (HK)",
+            "size": 1,
+            "x": -6,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#FFA400",
+            "id": "CLARA (NL)",
+            "label": "CLARA (NL)",
+            "size": 1,
+            "x": 0,
+            "y": -6
+        },
+        {
+            "attributes": {},
+            "color": "#FFB94E",
+            "id": "Equinix San Jose (US)",
+            "label": "Equinix San Jose (US)",
+            "size": 1,
+            "x": 15,
+            "y": -20
+        },
+        {
+            "attributes": {},
+            "color": "#E08A1E",
+            "id": "Blizzard (DE)",
+            "label": "Blizzard (DE)",
+            "size": 1,
+            "x": -18,
+            "y": -6
+        },
+        {
+            "attributes": {},
+            "color": "#FCC9B9",
+            "id": "Linkedin (SG)",
+            "label": "Linkedin (SG)",
+            "size": 1,
+            "x": -5,
+            "y": -11
+        },
+        {
+            "attributes": {},
+            "color": "#FFB3A7",
+            "id": "Limelight (SG)",
+            "label": "Limelight (SG)",
+            "size": 5,
+            "x": -6,
+            "y": -17
+        },
+        {
+            "attributes": {},
+            "color": "#F3C13A",
+            "id": "Google (HK)",
+            "label": "Google (HK)",
+            "size": 1,
+            "x": 11,
+            "y": 9
+        },
+        {
+            "attributes": {},
+            "color": "#FFA631",
+            "id": "Liquid Telecom (UK)",
+            "label": "Liquid Telecom (UK)",
+            "size": 1,
+            "x": 10,
+            "y": 12
+        },
+        {
+            "attributes": {},
+            "color": "#C3272B",
+            "id": "Triple T Internet/ Triple T Broadband",
+            "label": "Triple T Internet/ Triple T Broadband",
+            "size": 1,
+            "x": -1,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#5B8930",
+            "id": "Amazon (SG)",
+            "label": "Amazon (SG)",
+            "size": 7,
+            "x": -14,
+            "y": -9
+        },
+        {
+            "attributes": {},
+            "color": "#F7CA18",
+            "id": "Amazon (SG)",
+            "label": "Amazon (SG)",
+            "size": 7,
+            "x": -1,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#BF55EC",
+            "id": "CLARA (DE)",
+            "label": "CLARA (DE)",
+            "size": 1,
+            "x": 3,
+            "y": 14
+        },
+        {
+            "attributes": {},
+            "color": "#049372",
+            "id": "CAT ON Net",
+            "label": "CAT ON Net",
+            "size": 1,
+            "x": -3,
+            "y": 8
+        },
+        {
+            "attributes": {},
+            "color": "#8D608C",
+            "id": "Areti Internet (SG)",
+            "label": "Areti Internet (SG)",
+            "size": 1,
+            "x": 16,
+            "y": 8
+        },
+        {
+            "attributes": {},
+            "color": "#4D8FAC",
+            "id": "GTT (SG)",
+            "label": "GTT (SG)",
             "size": 1,
             "x": 12,
             "y": -6
         },
         {
             "attributes": {},
-            "color": "#F3C13A",
-            "id": "AS17709",
-            "label": "AS17709",
+            "color": "#DB5A6B",
+            "id": "NetActuate (HK)",
+            "label": "NetActuate (HK)",
             "size": 1,
-            "x": -3,
-            "y": 9
+            "x": -16,
+            "y": -16
         },
         {
             "attributes": {},
-            "color": "#BE90D4",
-            "id": "AS23884",
-            "label": "AS23884",
-            "size": 6,
-            "x": -6,
-            "y": -17
-        },
-        {
-            "attributes": {},
-            "color": "#95A5A6",
-            "id": "AS45142",
-            "label": "AS45142",
+            "color": "#16A085",
+            "id": "Global Cloud Xchang (SG)",
+            "label": "Global Cloud Xchang (SG)",
             "size": 1,
-            "x": 9,
-            "y": -20
+            "x": 3,
+            "y": 0
         },
         {
             "attributes": {},
-            "color": "#F58F84",
-            "id": "AS38450",
-            "label": "AS38450",
-            "size": 2,
-            "x": 4,
+            "color": "#044F67",
+            "id": "Telecom Italia (FR)",
+            "label": "Telecom Italia (FR)",
+            "size": 1,
+            "x": -16,
+            "y": 17
+        },
+        {
+            "attributes": {},
+            "color": "#9B59B6",
+            "id": "Twitch (SG)",
+            "label": "Twitch (SG)",
+            "size": 4,
+            "x": -11,
             "y": -4
         },
         {
             "attributes": {},
-            "color": "#4D8FAC",
-            "id": "AS41692",
-            "label": "AS41692",
-            "size": 2,
-            "x": -7,
-            "y": 7
+            "color": "#CF000F",
+            "id": "Sunrise (NL)",
+            "label": "Sunrise (NL)",
+            "size": 1,
+            "x": -10,
+            "y": -20
         },
         {
             "attributes": {},
-            "color": "#BF55EC",
-            "id": "AS3549",
-            "label": "AS3549",
+            "color": "#C93756",
+            "id": "UNITEL (LA)",
+            "label": "UNITEL (LA)",
             "size": 1,
-            "x": -8,
-            "y": 16
-        },
-        {
-            "attributes": {},
-            "color": "#03A678",
-            "id": "AS45455",
-            "label": "AS45455",
-            "size": 1,
-            "x": 20,
-            "y": -12
+            "x": 18,
+            "y": -5
         },
         {
             "attributes": {},
             "color": "#89729E",
-            "id": "AS45430",
-            "label": "AS45430",
+            "id": "ViewQwest (SG)",
+            "label": "ViewQwest (SG)",
+            "size": 1,
+            "x": -17,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#5D3F6A",
+            "id": "ACME (HK)",
+            "label": "ACME (HK)",
+            "size": 1,
+            "x": -17,
+            "y": -16
+        },
+        {
+            "attributes": {},
+            "color": "#A17917",
+            "id": "Loxley",
+            "label": "Loxley",
+            "size": 1,
+            "x": 3,
+            "y": 15
+        },
+        {
+            "attributes": {},
+            "color": "#DB5A6B",
+            "id": "BB Connect-IIG",
+            "label": "BB Connect-IIG",
+            "size": 1,
+            "x": 0,
+            "y": -19
+        },
+        {
+            "attributes": {},
+            "color": "#6C7A89",
+            "id": "HitachiSunway (SG)",
+            "label": "HitachiSunway (SG)",
+            "size": 1,
+            "x": -6,
+            "y": 9
+        },
+        {
+            "attributes": {},
+            "color": "#59ABE3",
+            "id": "AWN-IIG (SBN)",
+            "label": "AWN-IIG (SBN)",
+            "size": 1,
+            "x": -8,
+            "y": -10
+        },
+        {
+            "attributes": {},
+            "color": "#003171",
+            "id": "Google (MY)",
+            "label": "Google (MY)",
+            "size": 6,
+            "x": 2,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#C93756",
+            "id": "Valvesoftware (SG)",
+            "label": "Valvesoftware (SG)",
             "size": 1,
             "x": -12,
             "y": 18
         },
         {
             "attributes": {},
-            "color": "#89729E",
-            "id": "AS9498",
-            "label": "AS9498",
-            "size": 1,
-            "x": 19,
-            "y": -7
+            "color": "#8E44AD",
+            "id": "Facebook (MY)",
+            "label": "Facebook (MY)",
+            "size": 5,
+            "x": -4,
+            "y": 11
         },
         {
             "attributes": {},
-            "color": "#8DB255",
-            "id": "AS2518",
-            "label": "AS2518",
-            "size": 1,
-            "x": 18,
+            "color": "#E08A1E",
+            "id": "Netnod (SG)",
+            "label": "Netnod (SG)",
+            "size": 5,
+            "x": -6,
             "y": 2
         },
         {
             "attributes": {},
-            "color": "#ABB7B7",
-            "id": "AS3462",
-            "label": "AS3462",
+            "color": "#16A085",
+            "id": "Triple T Internet",
+            "label": "Triple T Internet",
             "size": 1,
             "x": -6,
-            "y": -9
+            "y": 11
         },
         {
             "attributes": {},
-            "color": "#049372",
-            "id": "AS4436",
-            "label": "AS4436",
-            "size": 1,
-            "x": 1,
+            "color": "#DB5A6B",
+            "id": "AMS-IX (NL)",
+            "label": "AMS-IX (NL)",
+            "size": 3,
+            "x": -3,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#36D7B7",
+            "id": "GTC (SG)",
+            "label": "GTC (SG)",
+            "size": 3,
+            "x": 11,
             "y": 16
         },
         {
             "attributes": {},
-            "color": "#5B3256",
-            "id": "AS64096",
-            "label": "AS64096",
-            "size": 3,
-            "x": -17,
-            "y": 9
+            "color": "#875F9A",
+            "id": "CS Loxinfo",
+            "label": "CS Loxinfo",
+            "size": 1,
+            "x": 15,
+            "y": 14
         },
         {
             "attributes": {},
-            "color": "#A87CA0",
-            "id": "AS19679",
-            "label": "AS19679",
-            "size": 6,
-            "x": 14,
-            "y": 7
+            "color": "#19B5FE",
+            "id": "Telin (SG)",
+            "label": "Telin (SG)",
+            "size": 1,
+            "x": 16,
+            "y": 5
         },
         {
             "attributes": {},
-            "color": "#FFA631",
-            "id": "AS131090",
-            "label": "AS131090",
+            "color": "#D2D7D3",
+            "id": "SKY Telecom (Lao)",
+            "label": "SKY Telecom (Lao)",
+            "size": 1,
+            "x": -20,
+            "y": 10
+        },
+        {
+            "attributes": {},
+            "color": "#8E44AD",
+            "id": "ISPIO (NIPA)",
+            "label": "ISPIO (NIPA)",
             "size": 1,
             "x": -18,
             "y": 6
         },
         {
             "attributes": {},
-            "color": "#22A7F0",
-            "id": "AS4761",
-            "label": "AS4761",
-            "size": 2,
-            "x": 20,
-            "y": -18
-        },
-        {
-            "attributes": {},
-            "color": "#BFBFBF",
-            "id": "AS23900",
-            "label": "AS23900",
+            "color": "#BDC3C7",
+            "id": "EdgeCast Networks (SG)",
+            "label": "EdgeCast Networks (SG)",
             "size": 1,
-            "x": 20,
-            "y": -11
+            "x": -11,
+            "y": 4
         },
         {
             "attributes": {},
-            "color": "#FFB61E",
-            "id": "AS7595",
-            "label": "AS7595",
+            "color": "#763568",
+            "id": "HE (HK)",
+            "label": "HE (HK)",
             "size": 1,
-            "x": -6,
-            "y": -19
+            "x": 15,
+            "y": 3
         },
         {
             "attributes": {},
-            "color": "#F5AB35",
-            "id": "AS16265",
-            "label": "AS16265",
-            "size": 2,
-            "x": -2,
-            "y": -18
-        },
-        {
-            "attributes": {},
-            "color": "#19B5FE",
-            "id": "AS38888",
-            "label": "AS38888",
+            "color": "#5B3256",
+            "id": "Sprint (US)",
+            "label": "Sprint (US)",
             "size": 1,
-            "x": -20,
-            "y": -6
+            "x": 2,
+            "y": 5
         },
         {
             "attributes": {},
-            "color": "#F47983",
-            "id": "AS9902",
-            "label": "AS9902",
+            "color": "#89729E",
+            "id": "Equinix (US)",
+            "label": "Equinix (US)",
             "size": 1,
-            "x": 20,
-            "y": -20
+            "x": 5,
+            "y": -9
         },
         {
             "attributes": {},
-            "color": "#F58F84",
-            "id": "AS5459",
-            "label": "AS5459",
-            "size": 2,
-            "x": 3,
-            "y": -16
-        },
-        {
-            "attributes": {},
-            "color": "#FAA945",
-            "id": "AS38001",
-            "label": "AS38001",
+            "color": "#CA6924",
+            "id": "NTC (KH)",
+            "label": "NTC (KH)",
             "size": 1,
-            "x": 0,
-            "y": -3
+            "x": -12,
+            "y": -2
         },
         {
             "attributes": {},
-            "color": "#BE90D4",
-            "id": "AS24203",
-            "label": "AS24203",
+            "color": "#E08A1E",
+            "id": "TOT-IDC",
+            "label": "TOT-IDC",
             "size": 1,
             "x": -1,
-            "y": -1
+            "y": 7
         },
         {
             "attributes": {},
-            "color": "#F47983",
-            "id": "AS132132",
-            "label": "AS132132",
-            "size": 2,
-            "x": -7,
-            "y": -6
-        },
-        {
-            "attributes": {},
-            "color": "#003171",
-            "id": "AS8365",
-            "label": "AS8365",
-            "size": 3,
-            "x": -8,
-            "y": -13
-        },
-        {
-            "attributes": {},
-            "color": "#DC3023",
-            "id": "AS23974",
-            "label": "AS23974",
+            "color": "#EEEEEE",
+            "id": "IPTransit (SG)",
+            "label": "IPTransit (SG)",
             "size": 1,
-            "x": 19,
-            "y": 20
-        },
-        {
-            "attributes": {},
-            "color": "#19B5FE",
-            "id": "AS32934",
-            "label": "AS32934",
-            "size": 13,
-            "x": 9,
-            "y": 2
-        },
-        {
-            "attributes": {},
-            "color": "#407A52",
-            "id": "AS1239",
-            "label": "AS1239",
-            "size": 1,
-            "x": 17,
-            "y": -2
-        },
-        {
-            "attributes": {},
-            "color": "#006442",
-            "id": "AS2914",
-            "label": "AS2914",
-            "size": 11,
-            "x": -4,
-            "y": -2
-        },
-        {
-            "attributes": {},
-            "color": "#95A5A6",
-            "id": "AS8075",
-            "label": "AS8075",
-            "size": 13,
-            "x": -19,
-            "y": 18
+            "x": 14,
+            "y": 12
         },
         {
             "attributes": {},
             "color": "#BDC3C7",
-            "id": "AS58436",
-            "label": "AS58436",
-            "size": 1,
-            "x": -8,
-            "y": -13
+            "id": "China Telecom (HK)",
+            "label": "China Telecom (HK)",
+            "size": 2,
+            "x": 10,
+            "y": -20
         },
         {
             "attributes": {},
-            "color": "#FFB61E",
-            "id": "AS38895",
-            "label": "AS38895",
-            "size": 6,
-            "x": -1,
+            "color": "#044F67",
+            "id": "Limelight (SG)",
+            "label": "Limelight (SG)",
+            "size": 5,
+            "x": 18,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#F08F907",
+            "id": "Sunrise (DE)",
+            "label": "Sunrise (DE)",
+            "size": 1,
+            "x": -5,
+            "y": 6
+        },
+        {
+            "attributes": {},
+            "color": "#BF55EC",
+            "id": "Amazon.com (SG)",
+            "label": "Amazon.com (SG)",
+            "size": 1,
+            "x": 9,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#8F1D21",
+            "id": "Extreme Broadband (SG)",
+            "label": "Extreme Broadband (SG)",
+            "size": 1,
+            "x": 20,
+            "y": 17
+        },
+        {
+            "attributes": {},
+            "color": "#BE90D4",
+            "id": "SIAMDATA",
+            "label": "SIAMDATA",
+            "size": 2,
+            "x": -17,
+            "y": -2
+        },
+        {
+            "attributes": {},
+            "color": "#A17917",
+            "id": "Telia Sonera (NL)",
+            "label": "Telia Sonera (NL)",
+            "size": 1,
+            "x": -15,
             "y": 9
         },
         {
             "attributes": {},
+            "color": "#ABB7B7",
+            "id": "1-to-All",
+            "label": "1-to-All",
+            "size": 1,
+            "x": 11,
+            "y": -17
+        },
+        {
+            "attributes": {},
+            "color": "#875F9A",
+            "id": "UIH/ BEENET",
+            "label": "UIH/ BEENET",
+            "size": 1,
+            "x": -1,
+            "y": 14
+        },
+        {
+            "attributes": {},
+            "color": "#DC3023",
+            "id": "ANCHNET (HK)",
+            "label": "ANCHNET (HK)",
+            "size": 1,
+            "x": 13,
+            "y": -20
+        },
+        {
+            "attributes": {},
+            "color": "#5D3F6A",
+            "id": "TOT LLI",
+            "label": "TOT LLI",
+            "size": 2,
+            "x": 7,
+            "y": 16
+        },
+        {
+            "attributes": {},
+            "color": "#D24D57",
+            "id": "AT&T (UK)",
+            "label": "AT&T (UK)",
+            "size": 1,
+            "x": -18,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#8E44AD",
+            "id": "Telenor Global (MY)",
+            "label": "Telenor Global (MY)",
+            "size": 1,
+            "x": 17,
+            "y": 12
+        },
+        {
+            "attributes": {},
+            "color": "#8DB255",
+            "id": "Voxility (DE)",
+            "label": "Voxility (DE)",
+            "size": 1,
+            "x": -14,
+            "y": -11
+        },
+        {
+            "attributes": {},
+            "color": "#03A678",
+            "id": "Comnet (DE)",
+            "label": "Comnet (DE)",
+            "size": 1,
+            "x": 18,
+            "y": 19
+        },
+        {
+            "attributes": {},
+            "color": "#03A678",
+            "id": "VTC (HK)",
+            "label": "VTC (HK)",
+            "size": 1,
+            "x": 3,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#19B5FE",
+            "id": "CHT (SG)",
+            "label": "CHT (SG)",
+            "size": 2,
+            "x": 15,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#F5D76E",
+            "id": "Voxel (SG)",
+            "label": "Voxel (SG)",
+            "size": 2,
+            "x": 7,
+            "y": -15
+        },
+        {
+            "attributes": {},
+            "color": "#F2F1EF",
+            "id": "Anycast (HK)",
+            "label": "Anycast (HK)",
+            "size": 1,
+            "x": 0,
+            "y": -18
+        },
+        {
+            "attributes": {},
+            "color": "#C93756",
+            "id": "Asia Pacific Telecom (HK)",
+            "label": "Asia Pacific Telecom (HK)",
+            "size": 1,
+            "x": 6,
+            "y": 12
+        },
+        {
+            "attributes": {},
+            "color": "#5D3F6A",
+            "id": "DTAG (FR)",
+            "label": "DTAG (FR)",
+            "size": 1,
+            "x": -6,
+            "y": 6
+        },
+        {
+            "attributes": {},
+            "color": "#FFA631",
+            "id": "PCH (SG)",
+            "label": "PCH (SG)",
+            "size": 8,
+            "x": 16,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#5B3256",
+            "id": "DOSARREST (UK)",
+            "label": "DOSARREST (UK)",
+            "size": 1,
+            "x": 20,
+            "y": -7
+        },
+        {
+            "attributes": {},
+            "color": "#407A52",
+            "id": "JPNAP (JP)",
+            "label": "JPNAP (JP)",
+            "size": 1,
+            "x": -12,
+            "y": 14
+        },
+        {
+            "attributes": {},
+            "color": "#5B3256",
+            "id": "Telia Sonera (SG)",
+            "label": "Telia Sonera (SG)",
+            "size": 1,
+            "x": 16,
+            "y": 11
+        },
+        {
+            "attributes": {},
+            "color": "#317589",
+            "id": "Maxis (SG)",
+            "label": "Maxis (SG)",
+            "size": 1,
+            "x": 20,
+            "y": 10
+        },
+        {
+            "attributes": {},
+            "color": "#87D37C",
+            "id": "Hericane (SG)",
+            "label": "Hericane (SG)",
+            "size": 1,
+            "x": -11,
+            "y": -14
+        },
+        {
+            "attributes": {},
+            "color": "#BDC3C7",
+            "id": "GoDaddy (SG)",
+            "label": "GoDaddy (SG)",
+            "size": 1,
+            "x": -16,
+            "y": -14
+        },
+        {
+            "attributes": {},
+            "color": "#FFB3A7",
+            "id": "2S1N",
+            "label": "2S1N",
+            "size": 1,
+            "x": 3,
+            "y": -7
+        },
+        {
+            "attributes": {},
+            "color": "#CF3A24",
+            "id": "CHT-I HiNet (TW)",
+            "label": "CHT-I HiNet (TW)",
+            "size": 1,
+            "x": -15,
+            "y": 18
+        },
+        {
+            "attributes": {},
+            "color": "#F58F84",
+            "id": "Leaseweb (SG)",
+            "label": "Leaseweb (SG)",
+            "size": 1,
+            "x": -17,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#F4D03F",
+            "id": "WIOCC (NL)",
+            "label": "WIOCC (NL)",
+            "size": 1,
+            "x": -19,
+            "y": 6
+        },
+        {
+            "attributes": {},
+            "color": "#48929B",
+            "id": "APPLE (SG)",
+            "label": "APPLE (SG)",
+            "size": 1,
+            "x": 5,
+            "y": -1
+        },
+        {
+            "attributes": {},
+            "color": "#E68364",
+            "id": "Dropbox (DE)",
+            "label": "Dropbox (DE)",
+            "size": 1,
+            "x": 1,
+            "y": 1
+        },
+        {
+            "attributes": {},
             "color": "#5B8930",
-            "id": "AS17726",
-            "label": "AS17726",
+            "id": "QUANTIL (HK)",
+            "label": "QUANTIL (HK)",
+            "size": 1,
+            "x": 14,
+            "y": -1
+        },
+        {
+            "attributes": {},
+            "color": "#044F67",
+            "id": "Apple (SG)",
+            "label": "Apple (SG)",
+            "size": 6,
+            "x": 19,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#CF000F",
+            "id": "Symphony-ISP",
+            "label": "Symphony-ISP",
+            "size": 1,
+            "x": -9,
+            "y": 1
+        },
+        {
+            "attributes": {},
+            "color": "#407A52",
+            "id": "KDDI (SG)",
+            "label": "KDDI (SG)",
+            "size": 1,
+            "x": 3,
+            "y": -7
+        },
+        {
+            "attributes": {},
+            "color": "#CA6924",
+            "id": "Hurricane (SG)",
+            "label": "Hurricane (SG)",
+            "size": 5,
+            "x": -16,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#317589",
+            "id": "SoftLayer (SG)",
+            "label": "SoftLayer (SG)",
+            "size": 5,
+            "x": 4,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#C3272B",
+            "id": "CAT-ISP",
+            "label": "CAT-ISP",
+            "size": 1,
+            "x": -1,
+            "y": 20
+        },
+        {
+            "attributes": {},
+            "color": "#8DB255",
+            "id": "Baidu (HK)",
+            "label": "Baidu (HK)",
+            "size": 1,
+            "x": 20,
+            "y": -14
+        },
+        {
+            "attributes": {},
+            "color": "#C3272B",
+            "id": "PCH (HK)",
+            "label": "PCH (HK)",
+            "size": 1,
+            "x": -16,
+            "y": -10
+        },
+        {
+            "attributes": {},
+            "color": "#BE90D4",
+            "id": "CDNetworks (SG)",
+            "label": "CDNetworks (SG)",
+            "size": 4,
+            "x": 15,
+            "y": -13
+        },
+        {
+            "attributes": {},
+            "color": "#8DB255",
+            "id": "Etisalat (UAE)",
+            "label": "Etisalat (UAE)",
+            "size": 1,
+            "x": 2,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#F08F907",
+            "id": "EdgeCast (SG)",
+            "label": "EdgeCast (SG)",
+            "size": 6,
+            "x": 0,
+            "y": 6
+        },
+        {
+            "attributes": {},
+            "color": "#D24D57",
+            "id": "WIOCC (DE)",
+            "label": "WIOCC (DE)",
+            "size": 1,
+            "x": -3,
+            "y": -18
+        },
+        {
+            "attributes": {},
+            "color": "#26C281",
+            "id": "TM (MY)",
+            "label": "TM (MY)",
+            "size": 1,
+            "x": 15,
+            "y": -9
+        },
+        {
+            "attributes": {},
+            "color": "#F9690E",
+            "id": "Vocus (SG)",
+            "label": "Vocus (SG)",
+            "size": 2,
+            "x": -2,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#C3272B",
+            "id": "Trans Hybrid (SG)",
+            "label": "Trans Hybrid (SG)",
+            "size": 1,
+            "x": 6,
+            "y": 3
+        },
+        {
+            "attributes": {},
+            "color": "#4D8FAC",
+            "id": "Vodafone (SG)",
+            "label": "Vodafone (SG)",
+            "size": 1,
+            "x": 6,
+            "y": -19
+        },
+        {
+            "attributes": {},
+            "color": "#5B3256",
+            "id": "EZNETSOLS (SG)",
+            "label": "EZNETSOLS (SG)",
+            "size": 3,
+            "x": 20,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#4D8FAC",
+            "id": "Qatar Telecom (SG)",
+            "label": "Qatar Telecom (SG)",
+            "size": 2,
+            "x": 3,
+            "y": 3
+        },
+        {
+            "attributes": {},
+            "color": "#E29C45",
+            "id": "Vodafone\u00a0\u00a0(FR)\u00a0",
+            "label": "Vodafone\u00a0\u00a0(FR)\u00a0",
+            "size": 1,
+            "x": -1,
+            "y": -14
+        },
+        {
+            "attributes": {},
+            "color": "#A87CA0",
+            "id": "TATA (US)",
+            "label": "TATA (US)",
+            "size": 2,
+            "x": 20,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#59ABE3",
+            "id": "OPENCARRIER (NL)",
+            "label": "OPENCARRIER (NL)",
+            "size": 1,
+            "x": 10,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#FAA945",
+            "id": "HostServer (DE)",
+            "label": "HostServer (DE)",
+            "size": 1,
+            "x": -1,
+            "y": 3
+        },
+        {
+            "attributes": {},
+            "color": "#BFBFBF",
+            "id": "TATA (UK)",
+            "label": "TATA (UK)",
+            "size": 1,
+            "x": -4,
+            "y": 7
+        },
+        {
+            "attributes": {},
+            "color": "#F08F907",
+            "id": "TATA\u00a0\u00a0(IN)",
+            "label": "TATA\u00a0\u00a0(IN)",
             "size": 1,
             "x": -17,
             "y": -6
         },
         {
             "attributes": {},
-            "color": "#FFA631",
-            "id": "AS45796",
-            "label": "AS45796",
-            "size": 51,
-            "x": 11,
+            "color": "#4B77BE",
+            "id": "NFOrce (DE)",
+            "label": "NFOrce (DE)",
+            "size": 1,
+            "x": -17,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#E08A1E",
+            "id": "Internet Harbor Global (SG)",
+            "label": "Internet Harbor Global (SG)",
+            "size": 2,
+            "x": 8,
+            "y": -1
+        },
+        {
+            "attributes": {},
+            "color": "#5B8930",
+            "id": "TCCT-IIG",
+            "label": "TCCT-IIG",
+            "size": 1,
+            "x": -10,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#264348",
+            "id": "Singtel (SG)",
+            "label": "Singtel (SG)",
+            "size": 1,
+            "x": -6,
+            "y": -14
+        },
+        {
+            "attributes": {},
+            "color": "#BE90D4",
+            "id": "nLayer (US)",
+            "label": "nLayer (US)",
+            "size": 1,
+            "x": 4,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#5D8CAE",
+            "id": "HKBN (HK)",
+            "label": "HKBN (HK)",
+            "size": 2,
+            "x": 20,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#6C7A89",
+            "id": "Dropbox (UK)",
+            "label": "Dropbox (UK)",
+            "size": 1,
+            "x": -17,
+            "y": 9
+        },
+        {
+            "attributes": {},
+            "color": "#8D608C",
+            "id": "KDDI (HK)",
+            "label": "KDDI (HK)",
+            "size": 1,
+            "x": 20,
+            "y": -9
+        },
+        {
+            "attributes": {},
+            "color": "#BFBFBF",
+            "id": "IPServerOne (SG)",
+            "label": "IPServerOne (SG)",
+            "size": 1,
+            "x": 8,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#22A7F0",
+            "id": "A-Net",
+            "label": "A-Net",
+            "size": 2,
+            "x": 4,
+            "y": -11
+        },
+        {
+            "attributes": {},
+            "color": "#CA6924",
+            "id": "Voxility (NL)",
+            "label": "Voxility (NL)",
+            "size": 1,
+            "x": 16,
+            "y": 10
+        },
+        {
+            "attributes": {},
+            "color": "#95A5A6",
+            "id": "Zenlayer (SG)",
+            "label": "Zenlayer (SG)",
+            "size": 3,
+            "x": 4,
+            "y": 15
+        },
+        {
+            "attributes": {},
+            "color": "#95A5A6",
+            "id": "SGIX (SG)",
+            "label": "SGIX (SG)",
+            "size": 1,
+            "x": -14,
+            "y": -11
+        },
+        {
+            "attributes": {},
+            "color": "#F47983",
+            "id": "Pacific Internet",
+            "label": "Pacific Internet",
+            "size": 1,
+            "x": 18,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#DC3023",
+            "id": "SOFTBANK (HK)",
+            "label": "SOFTBANK (HK)",
+            "size": 1,
+            "x": -1,
+            "y": -17
+        },
+        {
+            "attributes": {},
+            "color": "#757D75",
+            "id": "CBN Networks (SG)",
+            "label": "CBN Networks (SG)",
+            "size": 1,
+            "x": 19,
+            "y": -16
+        },
+        {
+            "attributes": {},
+            "color": "#9D2933",
+            "id": "TeliaSonera (SG)",
+            "label": "TeliaSonera (SG)",
+            "size": 1,
+            "x": 1,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#19B5FE",
+            "id": "Trans Hybrid Communication (SG)",
+            "label": "Trans Hybrid Communication (SG)",
+            "size": 1,
+            "x": -18,
+            "y": 18
+        },
+        {
+            "attributes": {},
+            "color": "#22A7F0",
+            "id": "EXPEREO (SG)",
+            "label": "EXPEREO (SG)",
+            "size": 1,
+            "x": -12,
+            "y": 10
+        },
+        {
+            "attributes": {},
+            "color": "#22A7F0",
+            "id": "TM (MY)\u00a0",
+            "label": "TM (MY)\u00a0",
+            "size": 2,
+            "x": -18,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#A87CA0",
+            "id": "Planetcom (LA)",
+            "label": "Planetcom (LA)",
+            "size": 1,
+            "x": 12,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#7A942E",
+            "id": "Ezecom (KH)",
+            "label": "Ezecom (KH)",
+            "size": 1,
+            "x": -1,
+            "y": 19
+        },
+        {
+            "attributes": {},
+            "color": "#4B77BE",
+            "id": "SOCO (UK)",
+            "label": "SOCO (UK)",
+            "size": 1,
+            "x": -11,
+            "y": 3
+        },
+        {
+            "attributes": {},
+            "color": "#FFA400",
+            "id": "AT&T (SG)",
+            "label": "AT&T (SG)",
+            "size": 1,
+            "x": -5,
+            "y": 8
+        },
+        {
+            "attributes": {},
+            "color": "#9D2933",
+            "id": "Telenor Global (HK)",
+            "label": "Telenor Global (HK)",
+            "size": 1,
+            "x": -17,
+            "y": 9
+        },
+        {
+            "attributes": {},
+            "color": "#757D75",
+            "id": "Blizzard (UK)",
+            "label": "Blizzard (UK)",
+            "size": 1,
+            "x": -1,
+            "y": 18
+        },
+        {
+            "attributes": {},
+            "color": "#BE90D4",
+            "id": "FPT Telecom (HK)",
+            "label": "FPT Telecom (HK)",
+            "size": 1,
+            "x": 10,
+            "y": 20
+        },
+        {
+            "attributes": {},
+            "color": "#48929B",
+            "id": "LAO Telecom (LA)",
+            "label": "LAO Telecom (LA)",
+            "size": 2,
+            "x": 19,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#003171",
+            "id": "Teliasonera (SG)",
+            "label": "Teliasonera (SG)",
+            "size": 1,
+            "x": -3,
+            "y": 15
+        },
+        {
+            "attributes": {},
+            "color": "#F62459",
+            "id": "Airtel (SG)",
+            "label": "Airtel (SG)",
+            "size": 1,
+            "x": -14,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#26A65B",
+            "id": "Wargaming (SG)",
+            "label": "Wargaming (SG)",
+            "size": 1,
+            "x": -19,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#F3C13A",
+            "id": "Uninet",
+            "label": "Uninet",
+            "size": 1,
+            "x": 0,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#5D3F6A",
+            "id": "MANDA (DE)",
+            "label": "MANDA (DE)",
+            "size": 1,
+            "x": 5,
+            "y": -1
+        },
+        {
+            "attributes": {},
+            "color": "#4D8FAC",
+            "id": "Sky Telecom (LA)",
+            "label": "Sky Telecom (LA)",
+            "size": 1,
+            "x": -19,
+            "y": 20
+        },
+        {
+            "attributes": {},
+            "color": "#36D7B7",
+            "id": "ColocationIX (UK)",
+            "label": "ColocationIX (UK)",
+            "size": 1,
+            "x": -17,
+            "y": 1
+        },
+        {
+            "attributes": {},
+            "color": "#FFA400",
+            "id": "HGC (HK)",
+            "label": "HGC (HK)",
+            "size": 3,
+            "x": -8,
+            "y": 14
+        },
+        {
+            "attributes": {},
+            "color": "#9D2933",
+            "id": "Bandwidth Technologies (NL)",
+            "label": "Bandwidth Technologies (NL)",
+            "size": 1,
+            "x": -19,
+            "y": -2
+        },
+        {
+            "attributes": {},
+            "color": "#19B5FE",
+            "id": "COGENT (US)",
+            "label": "COGENT (US)",
+            "size": 1,
+            "x": 19,
             "y": 7
         },
         {
             "attributes": {},
             "color": "#8E44AD",
-            "id": "AS56067",
-            "label": "AS56067",
+            "id": "FRANCE IX",
+            "label": "FRANCE IX",
             "size": 1,
-            "x": 8,
-            "y": 15
+            "x": -14,
+            "y": -11
         },
         {
             "attributes": {},
-            "color": "#E08A1E",
-            "id": "AS38328",
-            "label": "AS38328",
+            "color": "#407A52",
+            "id": "Equinix (FR)",
+            "label": "Equinix (FR)",
             "size": 2,
-            "x": -19,
-            "y": -13
+            "x": 17,
+            "y": 20
         },
         {
             "attributes": {},
-            "color": "#9B59B6",
-            "id": "AS58779",
-            "label": "AS58779",
+            "color": "#E29C45",
+            "id": "DTAC (IIG)",
+            "label": "DTAC (IIG)",
             "size": 1,
-            "x": 13,
-            "y": -4
+            "x": 1,
+            "y": -6
         },
         {
             "attributes": {},
-            "color": "#BFBFBF",
-            "id": "AS3320",
-            "label": "AS3320",
+            "color": "#CF000F",
+            "id": "HGC (SG)",
+            "label": "HGC (SG)",
             "size": 1,
-            "x": 4,
-            "y": 13
+            "x": -10,
+            "y": 20
         },
         {
             "attributes": {},
-            "color": "#5B8930",
-            "id": "AS6777",
-            "label": "AS6777",
-            "size": 2,
-            "x": -1,
-            "y": 14
-        },
-        {
-            "attributes": {},
-            "color": "#7A942E",
-            "id": "AS59318",
-            "label": "AS59318",
-            "size": 1,
-            "x": 4,
-            "y": 14
-        },
-        {
-            "attributes": {},
-            "color": "#FCC9B9",
-            "id": "AS56309",
-            "label": "AS56309",
+            "color": "#C3272B",
+            "id": "Level3 (US)",
+            "label": "Level3 (US)",
             "size": 2,
             "x": -13,
-            "y": 16
-        },
-        {
-            "attributes": {},
-            "color": "#8DB255",
-            "id": "AS198781",
-            "label": "AS198781",
-            "size": 2,
-            "x": -8,
-            "y": -16
-        },
-        {
-            "attributes": {},
-            "color": "#BDC3C7",
-            "id": "AS55967",
-            "label": "AS55967",
-            "size": 1,
-            "x": 4,
-            "y": 6
-        },
-        {
-            "attributes": {},
-            "color": "#ABB7B7",
-            "id": "AS136975",
-            "label": "AS136975",
-            "size": 1,
-            "x": 10,
-            "y": -14
-        },
-        {
-            "attributes": {},
-            "color": "#48929B",
-            "id": "AS134363",
-            "label": "AS134363",
-            "size": 2,
-            "x": -10,
             "y": 17
         },
         {
             "attributes": {},
-            "color": "#BFBFBF",
-            "id": "AS9534",
-            "label": "AS9534",
-            "size": 1,
-            "x": -1,
-            "y": 19
-        },
-        {
-            "attributes": {},
-            "color": "#BDC3C7",
-            "id": "AS15932",
-            "label": "AS15932",
-            "size": 4,
-            "x": 15,
-            "y": 0
-        },
-        {
-            "attributes": {},
-            "color": "#8F1D21",
-            "id": "AS55518",
-            "label": "AS55518",
-            "size": 1,
-            "x": 15,
-            "y": -14
-        },
-        {
-            "attributes": {},
-            "color": "#003171",
-            "id": "AS47195",
-            "label": "AS47195",
-            "size": 1,
-            "x": 11,
-            "y": -1
-        },
-        {
-            "attributes": {},
-            "color": "#95A5A6",
-            "id": "AS17887",
-            "label": "AS17887",
+            "color": "#BE90D4",
+            "id": "EZIT (SG)",
+            "label": "EZIT (SG)",
             "size": 2,
-            "x": -15,
-            "y": 0
-        },
-        {
-            "attributes": {},
-            "color": "#87D37C",
-            "id": "AS15412",
-            "label": "AS15412",
-            "size": 3,
-            "x": 3,
-            "y": 15
-        },
-        {
-            "attributes": {},
-            "color": "#89C4F4",
-            "id": "AS38158",
-            "label": "AS38158",
-            "size": 1,
-            "x": -7,
-            "y": -8
-        },
-        {
-            "attributes": {},
-            "color": "#BFBFBF",
-            "id": "AS2497",
-            "label": "AS2497",
-            "size": 1,
-            "x": 5,
-            "y": 19
-        },
-        {
-            "attributes": {},
-            "color": "#A17917",
-            "id": "AS4844",
-            "label": "AS4844",
-            "size": 3,
-            "x": -1,
+            "x": 18,
             "y": 1
         },
         {
             "attributes": {},
-            "color": "#95A5A6",
-            "id": "AS132880",
-            "label": "AS132880",
+            "color": "#F9690E",
+            "id": "NHN (SG)\u00a0",
+            "label": "NHN (SG)\u00a0",
             "size": 1,
-            "x": 20,
+            "x": 17,
             "y": -2
         },
         {
             "attributes": {},
-            "color": "#89729E",
-            "id": "AS53813",
-            "label": "AS53813",
+            "color": "#89C4F4",
+            "id": "UNITEL (LAOS)",
+            "label": "UNITEL (LAOS)",
             "size": 1,
-            "x": 1,
-            "y": 10
+            "x": -18,
+            "y": 13
         },
         {
             "attributes": {},
-            "color": "#87D37C",
-            "id": "AS199524",
-            "label": "AS199524",
+            "color": "#763568",
+            "id": "Sparkstation (SG)",
+            "label": "Sparkstation (SG)",
             "size": 1,
-            "x": -14,
-            "y": -18
+            "x": 2,
+            "y": -8
+        },
+        {
+            "attributes": {},
+            "color": "#BE90D4",
+            "id": "Cogent (SG)",
+            "label": "Cogent (SG)",
+            "size": 1,
+            "x": -10,
+            "y": 12
+        },
+        {
+            "attributes": {},
+            "color": "#22A7F0",
+            "id": "Swisscom (SG)",
+            "label": "Swisscom (SG)",
+            "size": 3,
+            "x": 5,
+            "y": 2
         },
         {
             "attributes": {},
             "color": "#F7CA18",
-            "id": "AS12076",
-            "label": "AS12076",
+            "id": "France IX (FR)",
+            "label": "France IX (FR)",
             "size": 1,
-            "x": -12,
-            "y": -20
+            "x": -3,
+            "y": 20
         },
         {
             "attributes": {},
-            "color": "#F62459",
-            "id": "AS45187",
-            "label": "AS45187",
+            "color": "#006442",
+            "id": "Twitch\u00a0\u00a0(SG)",
+            "label": "Twitch\u00a0\u00a0(SG)",
+            "size": 1,
+            "x": 1,
+            "y": 14
+        },
+        {
+            "attributes": {},
+            "color": "#C91F37",
+            "id": "Zayo (NL)",
+            "label": "Zayo (NL)",
             "size": 1,
             "x": 14,
-            "y": 16
+            "y": -17
         },
         {
             "attributes": {},
-            "color": "#EEEEEE",
-            "id": "AS19996",
-            "label": "AS19996",
-            "size": 3,
-            "x": 9,
-            "y": -20
-        },
-        {
-            "attributes": {},
-            "color": "#8DB255",
-            "id": "AS4765",
-            "label": "AS4765",
-            "size": 3,
-            "x": -17,
-            "y": 5
-        },
-        {
-            "attributes": {},
-            "color": "#9B59B6",
-            "id": "AS9293",
-            "label": "AS9293",
-            "size": 1,
-            "x": 9,
-            "y": -3
-        },
-        {
-            "attributes": {},
-            "color": "#9D2933",
-            "id": "AS9989",
-            "label": "AS9989",
-            "size": 1,
-            "x": -12,
-            "y": -7
-        },
-        {
-            "attributes": {},
-            "color": "#5B8930",
-            "id": "AS45102",
-            "label": "AS45102",
+            "color": "#CF3A24",
+            "id": "SparkStation (SG)",
+            "label": "SparkStation (SG)",
             "size": 2,
+            "x": 2,
+            "y": 7
+        },
+        {
+            "attributes": {},
+            "color": "#22A7F0",
+            "id": "HKIX (HK)",
+            "label": "HKIX (HK)",
+            "size": 5,
+            "x": -9,
+            "y": 8
+        },
+        {
+            "attributes": {},
+            "color": "#F47983",
+            "id": "SingTel (SG)",
+            "label": "SingTel (SG)",
+            "size": 5,
+            "x": -17,
+            "y": 14
+        },
+        {
+            "attributes": {},
+            "color": "#CF3A24",
+            "id": "Akamai (SG)",
+            "label": "Akamai (SG)",
+            "size": 7,
             "x": 8,
             "y": 13
         },
         {
             "attributes": {},
-            "color": "#FAA945",
-            "id": "AS38182",
-            "label": "AS38182",
+            "color": "#003171",
+            "id": "NAP Info (SG)",
+            "label": "NAP Info (SG)",
             "size": 1,
-            "x": -6,
-            "y": -9
+            "x": -8,
+            "y": -10
         },
         {
             "attributes": {},
-            "color": "#1F4788",
-            "id": "AS42",
-            "label": "AS42",
-            "size": 7,
-            "x": -7,
-            "y": 5
+            "color": "#003171",
+            "id": "Cogent (US)",
+            "label": "Cogent (US)",
+            "size": 2,
+            "x": 3,
+            "y": -14
         },
         {
             "attributes": {},
-            "color": "#FFA400",
-            "id": "AS13414",
-            "label": "AS13414",
-            "size": 5,
-            "x": 8,
-            "y": -9
+            "color": "#8F1D21",
+            "id": "Telehouse (DE)",
+            "label": "Telehouse (DE)",
+            "size": 1,
+            "x": 15,
+            "y": 20
+        },
+        {
+            "attributes": {},
+            "color": "#4DAF7C",
+            "id": "VNPT Corp (VN)",
+            "label": "VNPT Corp (VN)",
+            "size": 1,
+            "x": -14,
+            "y": -12
         },
         {
             "attributes": {},
             "color": "#E08A1E",
-            "id": "AS25369",
-            "label": "AS25369",
+            "id": "CCT (SG)",
+            "label": "CCT (SG)",
             "size": 1,
-            "x": -15,
-            "y": 5
+            "x": 15,
+            "y": -2
         },
         {
             "attributes": {},
-            "color": "#8E44AD",
-            "id": "AS4628",
-            "label": "AS4628",
+            "color": "#A87CA0",
+            "id": "AOFEI (SG)",
+            "label": "AOFEI (SG)",
+            "size": 1,
+            "x": 9,
+            "y": -13
+        },
+        {
+            "attributes": {},
+            "color": "#E08A1E",
+            "id": "AT&T (NL)",
+            "label": "AT&T (NL)",
+            "size": 1,
+            "x": -13,
+            "y": 13
+        },
+        {
+            "attributes": {},
+            "color": "#F22613",
+            "id": "LinkedIn (SG)",
+            "label": "LinkedIn (SG)",
             "size": 2,
-            "x": 14,
-            "y": 18
+            "x": -6,
+            "y": -3
         },
         {
             "attributes": {},
-            "color": "#5D3F6A",
-            "id": "AS47869",
-            "label": "AS47869",
-            "size": 3,
-            "x": 0,
-            "y": 17
+            "color": "#044F67",
+            "id": "JGN-IX (SG)",
+            "label": "JGN-IX (SG)",
+            "size": 1,
+            "x": 12,
+            "y": 2
         },
         {
             "attributes": {},
             "color": "#006442",
-            "id": "AS44654",
-            "label": "AS44654",
+            "id": "GIN",
+            "label": "GIN",
             "size": 2,
-            "x": 12,
-            "y": -4
+            "x": 18,
+            "y": 18
+        },
+        {
+            "attributes": {},
+            "color": "#22A7F0",
+            "id": "EXPEREO (UK)",
+            "label": "EXPEREO (UK)",
+            "size": 1,
+            "x": -12,
+            "y": 14
+        },
+        {
+            "attributes": {},
+            "color": "#F62459",
+            "id": "VALVE (SG)",
+            "label": "VALVE (SG)",
+            "size": 7,
+            "x": 6,
+            "y": -9
+        },
+        {
+            "attributes": {},
+            "color": "#F4D03F",
+            "id": "Telesonera (FR)",
+            "label": "Telesonera (FR)",
+            "size": 1,
+            "x": 1,
+            "y": 11
+        },
+        {
+            "attributes": {},
+            "color": "#4DAF7C",
+            "id": "Etisalat (HK)",
+            "label": "Etisalat (HK)",
+            "size": 1,
+            "x": 20,
+            "y": 12
+        },
+        {
+            "attributes": {},
+            "color": "#F5AB35",
+            "id": "FASTLY (SG)",
+            "label": "FASTLY (SG)",
+            "size": 1,
+            "x": 14,
+            "y": 20
+        },
+        {
+            "attributes": {},
+            "color": "#87D37C",
+            "id": "MILCOM",
+            "label": "MILCOM",
+            "size": 1,
+            "x": -2,
+            "y": 10
+        },
+        {
+            "attributes": {},
+            "color": "#2ABB9B",
+            "id": "Telecom Italia (SG)",
+            "label": "Telecom Italia (SG)",
+            "size": 2,
+            "x": 1,
+            "y": -15
+        },
+        {
+            "attributes": {},
+            "color": "#003171",
+            "id": "NTT (HK)",
+            "label": "NTT (HK)",
+            "size": 2,
+            "x": 13,
+            "y": 15
+        },
+        {
+            "attributes": {},
+            "color": "#F08F907",
+            "id": "LimeLight (SG)",
+            "label": "LimeLight (SG)",
+            "size": 1,
+            "x": 7,
+            "y": 9
+        },
+        {
+            "attributes": {},
+            "color": "#95A5A6",
+            "id": "TELIN (SG)",
+            "label": "TELIN (SG)",
+            "size": 1,
+            "x": -19,
+            "y": -8
+        },
+        {
+            "attributes": {},
+            "color": "#8DB255",
+            "id": "Biznet Networks (SG)",
+            "label": "Biznet Networks (SG)",
+            "size": 1,
+            "x": -2,
+            "y": 1
+        },
+        {
+            "attributes": {},
+            "color": "#4D8FAC",
+            "id": "OVH (SG)",
+            "label": "OVH (SG)",
+            "size": 2,
+            "x": 2,
+            "y": -13
+        },
+        {
+            "attributes": {},
+            "color": "#F3C13A",
+            "id": "Netrouting (NL)",
+            "label": "Netrouting (NL)",
+            "size": 1,
+            "x": 6,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#F08F907",
+            "id": "Smart Infonet",
+            "label": "Smart Infonet",
+            "size": 1,
+            "x": 2,
+            "y": -2
         },
         {
             "attributes": {},
             "color": "#C93756",
-            "id": "AS34347",
-            "label": "AS34347",
+            "id": "Microsoft (SG)",
+            "label": "Microsoft (SG)",
+            "size": 9,
+            "x": -12,
+            "y": -20
+        },
+        {
+            "attributes": {},
+            "color": "#5B3256",
+            "id": "Yahoo (SG)",
+            "label": "Yahoo (SG)",
+            "size": 6,
+            "x": 12,
+            "y": -6
+        },
+        {
+            "attributes": {},
+            "color": "#D9B611",
+            "id": "Equinix (SG)",
+            "label": "Equinix (SG)",
+            "size": 10,
+            "x": -10,
+            "y": 1
+        },
+        {
+            "attributes": {},
+            "color": "#EEEEEE",
+            "id": "ICT MOF",
+            "label": "ICT MOF",
+            "size": 2,
+            "x": -19,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#8D608C",
+            "id": "NLIX (NL)",
+            "label": "NLIX (NL)",
+            "size": 1,
+            "x": -14,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#26A65B",
+            "id": "Verizon (SG)",
+            "label": "Verizon (SG)",
+            "size": 1,
+            "x": 12,
+            "y": 14
+        },
+        {
+            "attributes": {},
+            "color": "#F9690E",
+            "id": "TOT LLI",
+            "label": "TOT LLI",
+            "size": 2,
+            "x": -19,
+            "y": 8
+        },
+        {
+            "attributes": {},
+            "color": "#F08F907",
+            "id": "Microsoft (SG)",
+            "label": "Microsoft (SG)",
+            "size": 9,
+            "x": 9,
+            "y": 6
+        },
+        {
+            "attributes": {},
+            "color": "#044F67",
+            "id": "Global Cloud Xchange(SG)",
+            "label": "Global Cloud Xchange(SG)",
+            "size": 1,
+            "x": 1,
+            "y": 17
+        },
+        {
+            "attributes": {},
+            "color": "#757D75",
+            "id": "Netflix (SG)",
+            "label": "Netflix (SG)",
+            "size": 9,
+            "x": 11,
+            "y": 18
+        },
+        {
+            "attributes": {},
+            "color": "#9D2933",
+            "id": "Daliymotion (NL)",
+            "label": "Daliymotion (NL)",
+            "size": 1,
+            "x": -8,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#1F4788",
+            "id": "PCH (SG)",
+            "label": "PCH (SG)",
+            "size": 8,
+            "x": -13,
+            "y": -9
+        },
+        {
+            "attributes": {},
+            "color": "#F47983",
+            "id": "Valve (SG)",
+            "label": "Valve (SG)",
+            "size": 1,
+            "x": 1,
+            "y": 18
+        },
+        {
+            "attributes": {},
+            "color": "#F47983",
+            "id": "NetActuate (US)",
+            "label": "NetActuate (US)",
+            "size": 1,
+            "x": -19,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#87D37C",
+            "id": "TeliaSonera (UK)",
+            "label": "TeliaSonera (UK)",
+            "size": 1,
+            "x": -2,
+            "y": -10
+        },
+        {
+            "attributes": {},
+            "color": "#757D75",
+            "id": "PCCW (SG)",
+            "label": "PCCW (SG)",
+            "size": 3,
+            "x": -8,
+            "y": 17
+        },
+        {
+            "attributes": {},
+            "color": "#F9690E",
+            "id": "Wharf T&T (SG)",
+            "label": "Wharf T&T (SG)",
+            "size": 1,
+            "x": 3,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#8D608C",
+            "id": "SOFTBANK (SG)",
+            "label": "SOFTBANK (SG)",
+            "size": 1,
+            "x": 20,
+            "y": -8
+        },
+        {
+            "attributes": {},
+            "color": "#003171",
+            "id": "Wikimedia (SG)",
+            "label": "Wikimedia (SG)",
+            "size": 1,
+            "x": -8,
+            "y": -13
+        },
+        {
+            "attributes": {},
+            "color": "#D9B611",
+            "id": "Netrouting (DE)",
+            "label": "Netrouting (DE)",
+            "size": 1,
+            "x": -7,
+            "y": 10
+        },
+        {
+            "attributes": {},
+            "color": "#D24D57",
+            "id": "IIJ (SG)",
+            "label": "IIJ (SG)",
+            "size": 1,
+            "x": -18,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#FAA945",
+            "id": "Telenor Globa (MM)",
+            "label": "Telenor Globa (MM)",
+            "size": 1,
+            "x": -2,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#BDC3C7",
+            "id": "Any2Coresite (US)",
+            "label": "Any2Coresite (US)",
+            "size": 3,
+            "x": 20,
+            "y": -15
+        },
+        {
+            "attributes": {},
+            "color": "#6B9362",
+            "id": "UIH (Beenet)",
+            "label": "UIH (Beenet)",
+            "size": 1,
+            "x": 1,
+            "y": 7
+        },
+        {
+            "attributes": {},
+            "color": "#E68364",
+            "id": "CLARA (SG)",
+            "label": "CLARA (SG)",
+            "size": 1,
+            "x": 7,
+            "y": -2
+        },
+        {
+            "attributes": {},
+            "color": "#87D37C",
+            "id": "PROEN Internet",
+            "label": "PROEN Internet",
+            "size": 3,
+            "x": -13,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#EEEEEE",
+            "id": "HERE Global BV (SG)",
+            "label": "HERE Global BV (SG)",
+            "size": 1,
+            "x": 16,
+            "y": -13
+        },
+        {
+            "attributes": {},
+            "color": "#F08F907",
+            "id": "InterConnect (NL)",
+            "label": "InterConnect (NL)",
             "size": 1,
             "x": -13,
             "y": -6
         },
         {
             "attributes": {},
-            "color": "#8F1D21",
-            "id": "AS1273",
-            "label": "AS1273",
-            "size": 3,
-            "x": 12,
-            "y": 12
+            "color": "#26A65B",
+            "id": "Equinix (FR)",
+            "label": "Equinix (FR)",
+            "size": 2,
+            "x": -4,
+            "y": 9
         },
         {
             "attributes": {},
-            "color": "#5D8CAE",
-            "id": "AS26496",
-            "label": "AS26496",
+            "color": "#264348",
+            "id": "PCH (DE)",
+            "label": "PCH (DE)",
             "size": 1,
             "x": -13,
+            "y": 7
+        },
+        {
+            "attributes": {},
+            "color": "#BE90D4",
+            "id": "INFONET",
+            "label": "INFONET",
+            "size": 1,
+            "x": 14,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#2ABB9B",
+            "id": "HostEurope (DE)",
+            "label": "HostEurope (DE)",
+            "size": 1,
+            "x": -19,
             "y": 16
         },
         {
             "attributes": {},
-            "color": "#7A942E",
-            "id": "AS24337",
-            "label": "AS24337",
-            "size": 1,
-            "x": 17,
-            "y": -10
+            "color": "#2ABB9B",
+            "id": "Core-Backbone (SG)",
+            "label": "Core-Backbone (SG)",
+            "size": 2,
+            "x": 8,
+            "y": -2
         },
         {
             "attributes": {},
-            "color": "#F2F1EF",
-            "id": "AS29838",
-            "label": "AS29838",
+            "color": "#9B59B6",
+            "id": "TEIN4 (HK)",
+            "label": "TEIN4 (HK)",
+            "size": 1,
+            "x": -17,
+            "y": -20
+        },
+        {
+            "attributes": {},
+            "color": "#9D2933",
+            "id": "Level 3 (SG)",
+            "label": "Level 3 (SG)",
+            "size": 1,
+            "x": -12,
+            "y": -12
+        },
+        {
+            "attributes": {},
+            "color": "#CA6924",
+            "id": "Cogent (HK)",
+            "label": "Cogent (HK)",
+            "size": 1,
+            "x": -11,
+            "y": 9
+        },
+        {
+            "attributes": {},
+            "color": "#DC3023",
+            "id": "iiNet (SG)",
+            "label": "iiNet (SG)",
+            "size": 1,
+            "x": 14,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#FFB94E",
+            "id": "ServeNET",
+            "label": "ServeNET",
+            "size": 1,
+            "x": -8,
+            "y": 17
+        },
+        {
+            "attributes": {},
+            "color": "#F22613",
+            "id": "B Network Solution (BNS)",
+            "label": "B Network Solution (BNS)",
+            "size": 1,
+            "x": -8,
+            "y": 11
+        },
+        {
+            "attributes": {},
+            "color": "#95A5A6",
+            "id": "Hurricane\u00a0\u00a0(US)",
+            "label": "Hurricane\u00a0\u00a0(US)",
+            "size": 1,
+            "x": -17,
+            "y": -9
+        },
+        {
+            "attributes": {},
+            "color": "#16A085",
+            "id": "Twicth (NL)",
+            "label": "Twicth (NL)",
+            "size": 1,
+            "x": 0,
+            "y": -6
+        },
+        {
+            "attributes": {},
+            "color": "#044F67",
+            "id": "Twicth (DE)",
+            "label": "Twicth (DE)",
             "size": 1,
             "x": 19,
             "y": 1
         },
         {
             "attributes": {},
-            "color": "#FFB94E",
-            "id": "AS4776",
-            "label": "AS4776",
+            "color": "#407A52",
+            "id": "INDOSAT (SG)",
+            "label": "INDOSAT (SG)",
             "size": 2,
-            "x": -4,
-            "y": 18
+            "x": 5,
+            "y": -17
         },
         {
             "attributes": {},
-            "color": "#FAA945",
-            "id": "AS45581",
-            "label": "AS45581",
+            "color": "#ECF0F1",
+            "id": "HostEurope (UK)",
+            "label": "HostEurope (UK)",
             "size": 1,
-            "x": -12,
+            "x": -18,
+            "y": -2
+        },
+        {
+            "attributes": {},
+            "color": "#03A678",
+            "id": "Pacific Internet (SG)",
+            "label": "Pacific Internet (SG)",
+            "size": 2,
+            "x": -13,
             "y": 15
         },
         {
             "attributes": {},
-            "color": "#4B77BE",
-            "id": "AS38566",
-            "label": "AS38566",
-            "size": 3,
-            "x": -6,
-            "y": 2
-        },
-        {
-            "attributes": {},
-            "color": "#6C7A89",
-            "id": "AS16509",
-            "label": "AS16509",
-            "size": 2,
-            "x": 7,
-            "y": 8
-        },
-        {
-            "attributes": {},
-            "color": "#7A942E",
-            "id": "AS54113",
-            "label": "AS54113",
+            "color": "#4DAF7C",
+            "id": "Moratelindo (SG)",
+            "label": "Moratelindo (SG)",
             "size": 1,
-            "x": 11,
-            "y": 8
-        },
-        {
-            "attributes": {},
-            "color": "#F2F1EF",
-            "id": "AS51185",
-            "label": "AS51185",
-            "size": 1,
-            "x": 11,
-            "y": 10
-        },
-        {
-            "attributes": {},
-            "color": "#E08A1E",
-            "id": "AS55403",
-            "label": "AS55403",
-            "size": 1,
-            "x": 13,
-            "y": -6
+            "x": -11,
+            "y": -17
         },
         {
             "attributes": {},
             "color": "#757D75",
-            "id": "AS15133",
-            "label": "AS15133",
-            "size": 9,
-            "x": 0,
-            "y": -8
+            "id": "NTT (TH)",
+            "label": "NTT (TH)",
+            "size": 2,
+            "x": 14,
+            "y": 17
         },
         {
             "attributes": {},
-            "color": "#875F9A",
-            "id": "AS41690",
-            "label": "AS41690",
-            "size": 6,
-            "x": -1,
-            "y": -9
-        },
-        {
-            "attributes": {},
-            "color": "#F3C13A",
-            "id": "AS10158",
-            "label": "AS10158",
+            "color": "#A17917",
+            "id": "Dialpad (HK)",
+            "label": "Dialpad (HK)",
             "size": 1,
-            "x": 7,
-            "y": -5
+            "x": -5,
+            "y": -3
+        },
+        {
+            "attributes": {},
+            "color": "#FFA400",
+            "id": "Equinix (SG)",
+            "label": "Equinix (SG)",
+            "size": 10,
+            "x": 0,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#BFBFBF",
+            "id": "Ji-NET",
+            "label": "Ji-NET",
+            "size": 1,
+            "x": -17,
+            "y": -2
+        },
+        {
+            "attributes": {},
+            "color": "#F22613",
+            "id": "Etisalat (SG)",
+            "label": "Etisalat (SG)",
+            "size": 2,
+            "x": 6,
+            "y": -4
         },
         {
             "attributes": {},
             "color": "#87D37C",
-            "id": "AS3491",
-            "label": "AS3491",
-            "size": 7,
-            "x": 11,
-            "y": 14
+            "id": "Microsoft (HK)",
+            "label": "Microsoft (HK)",
+            "size": 2,
+            "x": 7,
+            "y": 20
         },
         {
             "attributes": {},
-            "color": "#F4D03F",
-            "id": "AS23939",
-            "label": "AS23939",
-            "size": 3,
+            "color": "#D9B611",
+            "id": "Alibaba (SG)",
+            "label": "Alibaba (SG)",
+            "size": 2,
+            "x": -12,
+            "y": 13
+        },
+        {
+            "attributes": {},
+            "color": "#48929B",
+            "id": "AMS-IX (AN)",
+            "label": "AMS-IX (AN)",
+            "size": 2,
+            "x": -8,
+            "y": -15
+        },
+        {
+            "attributes": {},
+            "color": "#FFB61E",
+            "id": "Telenor (DE)",
+            "label": "Telenor (DE)",
+            "size": 1,
+            "x": 16,
+            "y": -19
+        },
+        {
+            "attributes": {},
+            "color": "#7A942E",
+            "id": "PROEN",
+            "label": "PROEN",
+            "size": 1,
+            "x": 14,
+            "y": 16
+        },
+        {
+            "attributes": {},
+            "color": "#6B9362",
+            "id": "GAMEFORGE (DE)",
+            "label": "GAMEFORGE (DE)",
+            "size": 1,
+            "x": 11,
+            "y": -8
+        },
+        {
+            "attributes": {},
+            "color": "#D2D7D3",
+            "id": "Liquid Telecom (NL)",
+            "label": "Liquid Telecom (NL)",
+            "size": 1,
             "x": 12,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#F5D76E",
+            "id": "Akamai (HK)",
+            "label": "Akamai (HK)",
+            "size": 1,
+            "x": 19,
+            "y": -18
+        },
+        {
+            "attributes": {},
+            "color": "#FFB3A7",
+            "id": "PCCW (HK)",
+            "label": "PCCW (HK)",
+            "size": 4,
+            "x": -6,
+            "y": -17
+        },
+        {
+            "attributes": {},
+            "color": "#C93756",
+            "id": "NIPA.CLOUD",
+            "label": "NIPA.CLOUD",
+            "size": 2,
+            "x": 16,
+            "y": 3
+        },
+        {
+            "attributes": {},
+            "color": "#763568",
+            "id": "Daliymotion (DE)",
+            "label": "Daliymotion (DE)",
+            "size": 1,
+            "x": 9,
+            "y": -20
+        },
+        {
+            "attributes": {},
+            "color": "#D2D7D3",
+            "id": "Samart Infonet",
+            "label": "Samart Infonet",
+            "size": 2,
+            "x": -7,
+            "y": -14
+        },
+        {
+            "attributes": {},
+            "color": "#4D8FAC",
+            "id": "IP ServerOne (SG)",
+            "label": "IP ServerOne (SG)",
+            "size": 2,
+            "x": -6,
+            "y": 8
+        },
+        {
+            "attributes": {},
+            "color": "#19B5FE",
+            "id": "AT&T (FR)",
+            "label": "AT&T (FR)",
+            "size": 1,
+            "x": -1,
+            "y": 16
+        },
+        {
+            "attributes": {},
+            "color": "#F5AB35",
+            "id": "Telstra (HK)\u00a0",
+            "label": "Telstra (HK)\u00a0",
+            "size": 1,
+            "x": 12,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#F58F84",
+            "id": "Vocus (AU)",
+            "label": "Vocus (AU)",
+            "size": 1,
+            "x": -13,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#ABB7B7",
+            "id": "BBIX (HK)",
+            "label": "BBIX (HK)",
+            "size": 1,
+            "x": 2,
+            "y": 7
+        },
+        {
+            "attributes": {},
+            "color": "#E2B13C",
+            "id": "BIGLOBE (SG)",
+            "label": "BIGLOBE (SG)",
+            "size": 1,
+            "x": 1,
+            "y": 20
+        },
+        {
+            "attributes": {},
+            "color": "#1F4788",
+            "id": "Lao Gateway (LA)",
+            "label": "Lao Gateway (LA)",
+            "size": 1,
+            "x": 10,
+            "y": 6
+        },
+        {
+            "attributes": {},
+            "color": "#BF55EC",
+            "id": "L3 (US)",
+            "label": "L3 (US)",
+            "size": 1,
+            "x": 9,
+            "y": -8
+        },
+        {
+            "attributes": {},
+            "color": "#EEEEEE",
+            "id": "Blizzard (NL)",
+            "label": "Blizzard (NL)",
+            "size": 1,
+            "x": 19,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#264348",
+            "id": "StarHub (SG)\u00a0",
+            "label": "StarHub (SG)\u00a0",
+            "size": 1,
+            "x": -15,
+            "y": -13
+        },
+        {
+            "attributes": {},
+            "color": "#89729E",
+            "id": "Facebook (SG)",
+            "label": "Facebook (SG)",
+            "size": 7,
+            "x": 6,
+            "y": -9
+        },
+        {
+            "attributes": {},
+            "color": "#8F1D21",
+            "id": "Kakao (SG)",
+            "label": "Kakao (SG)",
+            "size": 1,
+            "x": 16,
+            "y": 9
+        },
+        {
+            "attributes": {},
+            "color": "#ABB7B7",
+            "id": "Viewqwest (SG)",
+            "label": "Viewqwest (SG)",
+            "size": 2,
+            "x": -7,
+            "y": 12
+        },
+        {
+            "attributes": {},
+            "color": "#FCC9B9",
+            "id": "Dots Solutions",
+            "label": "Dots Solutions",
+            "size": 1,
+            "x": -14,
+            "y": -16
+        },
+        {
+            "attributes": {},
+            "color": "#DC3023",
+            "id": "NexusGuard (SG)",
+            "label": "NexusGuard (SG)",
+            "size": 1,
+            "x": -13,
+            "y": 20
+        },
+        {
+            "attributes": {},
+            "color": "#F3C13A",
+            "id": "Telenor (NL)",
+            "label": "Telenor (NL)",
+            "size": 1,
+            "x": 4,
             "y": 10
         },
         {
             "attributes": {},
-            "color": "#FAA945",
-            "id": "AS17934",
-            "label": "AS17934",
+            "color": "#4B77BE",
+            "id": "MANDA (UK)",
+            "label": "MANDA (UK)",
+            "size": 1,
+            "x": -2,
+            "y": 17
+        },
+        {
+            "attributes": {},
+            "color": "#8DB255",
+            "id": "DOSARREST (SG)",
+            "label": "DOSARREST (SG)",
+            "size": 1,
+            "x": 3,
+            "y": -12
+        },
+        {
+            "attributes": {},
+            "color": "#26A65B",
+            "id": "MPT (MM)",
+            "label": "MPT (MM)",
+            "size": 1,
+            "x": 8,
+            "y": -2
+        },
+        {
+            "attributes": {},
+            "color": "#CF000F",
+            "id": "NexusGuard (HK)",
+            "label": "NexusGuard (HK)",
+            "size": 1,
+            "x": -9,
+            "y": -12
+        },
+        {
+            "attributes": {},
+            "color": "#F7CA18",
+            "id": "AT&T (HK)",
+            "label": "AT&T (HK)",
+            "size": 1,
+            "x": 11,
+            "y": 6
+        },
+        {
+            "attributes": {},
+            "color": "#ECF0F1",
+            "id": "Telecom Cambodia (SG)",
+            "label": "Telecom Cambodia (SG)",
+            "size": 1,
+            "x": -20,
+            "y": 18
+        },
+        {
+            "attributes": {},
+            "color": "#BF55EC",
+            "id": "Sunrise (UK)",
+            "label": "Sunrise (UK)",
+            "size": 1,
+            "x": -3,
+            "y": 12
+        },
+        {
+            "attributes": {},
+            "color": "#E29C45",
+            "id": "Microsoft (SG)",
+            "label": "Microsoft (SG)",
+            "size": 9,
+            "x": 4,
+            "y": 9
+        },
+        {
+            "attributes": {},
+            "color": "#407A52",
+            "id": "FERAL (UK)",
+            "label": "FERAL (UK)",
+            "size": 1,
+            "x": 10,
+            "y": 1
+        },
+        {
+            "attributes": {},
+            "color": "#F62459",
+            "id": "Microsoft (US)",
+            "label": "Microsoft (US)",
+            "size": 3,
+            "x": -15,
+            "y": -12
+        },
+        {
+            "attributes": {},
+            "color": "#F22613",
+            "id": "FERAL (NL)",
+            "label": "FERAL (NL)",
+            "size": 1,
+            "x": 12,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#ABB7B7",
+            "id": "Akamai (FR)",
+            "label": "Akamai (FR)",
+            "size": 1,
+            "x": -18,
+            "y": -12
+        },
+        {
+            "attributes": {},
+            "color": "#F22613",
+            "id": "Google (SG)",
+            "label": "Google (SG)",
+            "size": 8,
+            "x": -10,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#F22613",
+            "id": "AMS-IX (NL)",
+            "label": "AMS-IX (NL)",
+            "size": 3,
+            "x": -12,
+            "y": -19
+        },
+        {
+            "attributes": {},
+            "color": "#D9B611",
+            "id": "i4HK (HK)",
+            "label": "i4HK (HK)",
+            "size": 1,
+            "x": -3,
+            "y": 1
+        },
+        {
+            "attributes": {},
+            "color": "#F5AB35",
+            "id": "INET",
+            "label": "INET",
+            "size": 6,
+            "x": 19,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#FFA400",
+            "id": "MANDA (NL)",
+            "label": "MANDA (NL)",
             "size": 1,
             "x": 14,
+            "y": 17
+        },
+        {
+            "attributes": {},
+            "color": "#875F9A",
+            "id": "DE-CIX (DE)",
+            "label": "DE-CIX (DE)",
+            "size": 4,
+            "x": -8,
+            "y": -19
+        },
+        {
+            "attributes": {},
+            "color": "#59ABE3",
+            "id": "SOCO (NL)",
+            "label": "SOCO (NL)",
+            "size": 1,
+            "x": 9,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#757D75",
+            "id": "Facebook (SG)\u00a0\u00a0\u00a0",
+            "label": "Facebook (SG)\u00a0\u00a0\u00a0",
+            "size": 1,
+            "x": -16,
+            "y": -4
+        },
+        {
+            "attributes": {},
+            "color": "#95A5A6",
+            "id": "Global Cloud Xchange (SG)",
+            "label": "Global Cloud Xchange (SG)",
+            "size": 1,
+            "x": 4,
+            "y": 0
+        },
+        {
+            "attributes": {},
+            "color": "#875F9A",
+            "id": "Telenor Global (SG)",
+            "label": "Telenor Global (SG)",
+            "size": 1,
+            "x": 18,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#9B59B6",
+            "id": "Dhiraagu (SG)",
+            "label": "Dhiraagu (SG)",
+            "size": 1,
+            "x": -11,
+            "y": -1
+        },
+        {
+            "attributes": {},
+            "color": "#59ABE3",
+            "id": "Dtac Trinet\u00a0",
+            "label": "Dtac Trinet\u00a0",
+            "size": 1,
+            "x": -12,
+            "y": -15
+        },
+        {
+            "attributes": {},
+            "color": "#003171",
+            "id": "Equinix (HK)",
+            "label": "Equinix (HK)",
+            "size": 1,
+            "x": -10,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#1F4788",
+            "id": "BIH (HK)",
+            "label": "BIH (HK)",
+            "size": 1,
+            "x": -16,
+            "y": -9
+        },
+        {
+            "attributes": {},
+            "color": "#EEEEEE",
+            "id": "Milcom",
+            "label": "Milcom",
+            "size": 1,
+            "x": 12,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#4D8FAC",
+            "id": "TeliaSonera (HK)",
+            "label": "TeliaSonera (HK)",
+            "size": 1,
+            "x": 13,
+            "y": 8
+        },
+        {
+            "attributes": {},
+            "color": "#89C4F4",
+            "id": "Verizon (US)",
+            "label": "Verizon (US)",
+            "size": 1,
+            "x": 16,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#9D2933",
+            "id": "CITYNET (DE)",
+            "label": "CITYNET (DE)",
+            "size": 1,
+            "x": 0,
+            "y": -9
+        },
+        {
+            "attributes": {},
+            "color": "#C93756",
+            "id": "SOCO (DE)",
+            "label": "SOCO (DE)",
+            "size": 1,
+            "x": -10,
+            "y": -5
+        },
+        {
+            "attributes": {},
+            "color": "#F5AB35",
+            "id": "BhutanTelecom (SG)",
+            "label": "BhutanTelecom (SG)",
+            "size": 1,
+            "x": -10,
+            "y": -19
+        },
+        {
+            "attributes": {},
+            "color": "#F4D03F",
+            "id": "FPT (VN)",
+            "label": "FPT (VN)",
+            "size": 1,
+            "x": -13,
+            "y": 11
+        },
+        {
+            "attributes": {},
+            "color": "#A17917",
+            "id": "BBIX (SG)",
+            "label": "BBIX (SG)",
+            "size": 4,
+            "x": 12,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#36D7B7",
+            "id": "AT&T (DE)",
+            "label": "AT&T (DE)",
+            "size": 1,
+            "x": -12,
+            "y": 4
+        },
+        {
+            "attributes": {},
+            "color": "#FCC9B9",
+            "id": "Blizzard (FR)",
+            "label": "Blizzard (FR)",
+            "size": 1,
+            "x": -10,
+            "y": 20
+        },
+        {
+            "attributes": {},
+            "color": "#D2D7D3",
+            "id": "KIRZ",
+            "label": "KIRZ",
+            "size": 2,
+            "x": -8,
             "y": 16
+        },
+        {
+            "attributes": {},
+            "color": "#763568",
+            "id": "ReadySpace Pte Ltd (SG)",
+            "label": "ReadySpace Pte Ltd (SG)",
+            "size": 1,
+            "x": -6,
+            "y": 8
+        },
+        {
+            "attributes": {},
+            "color": "#03A678",
+            "id": "Digital Ocean (SG)",
+            "label": "Digital Ocean (SG)",
+            "size": 3,
+            "x": 14,
+            "y": 3
+        },
+        {
+            "attributes": {},
+            "color": "#FFB94E",
+            "id": "Twitter  (SG)",
+            "label": "Twitter  (SG)",
+            "size": 1,
+            "x": -3,
+            "y": -10
+        },
+        {
+            "attributes": {},
+            "color": "#ECF0F1",
+            "id": "SuperInternet (SG)",
+            "label": "SuperInternet (SG)",
+            "size": 3,
+            "x": 3,
+            "y": 5
+        },
+        {
+            "attributes": {},
+            "color": "#8D608C",
+            "id": "WIOCC (UK)",
+            "label": "WIOCC (UK)",
+            "size": 1,
+            "x": 12,
+            "y": 2
+        },
+        {
+            "attributes": {},
+            "color": "#59ABE3",
+            "id": "Microsoft (MY)",
+            "label": "Microsoft (MY)",
+            "size": 1,
+            "x": -20,
+            "y": 10
+        },
+        {
+            "attributes": {},
+            "color": "#D9B611",
+            "id": "Metrabyte",
+            "label": "Metrabyte",
+            "size": 1,
+            "x": -15,
+            "y": 12
         }
     ]
 }

@@ -16,7 +16,7 @@
     <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=ZUONbpqGBsYGXNIYHicvbAbM"></script>
     <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/bmap.min.js"></script>
     <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/simplex.js"></script>
-    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
     <script type="text/javascript">
     var dom = document.getElementById("container");
     var myChart = echarts.init(dom);
@@ -33,7 +33,7 @@
             animationEasingUpdate: 'quinticInOut',
             series: [{
                 type: 'graph',
-                layout: 'circular',
+                layout: 'force',
                 // progressiveThreshold: 700,
                 data: json.nodes.map(function(node) {
                     return {
