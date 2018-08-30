@@ -1,0 +1,12 @@
+count IPv6
+cut -d" " -f 6,7 login-20170102-anon.csv.txt |grep "^-"|wc -l
+
+count IPv4
+cut -d" " -f 6,7 login-20170102-anon.csv.txt |grep " -"|wc -l
+
+count Dual Stack
+cut -d" " -f 6,7 login-20170102-anon.csv.txt |grep -v "-"|wc -l
+
+login server distribution
+cut -d" " -f 8 login-20170102-anon.csv.txt|grep -v "[-|TIMER]"|sort|uniq -c|sed 's/^ \(.*\)//'
+
