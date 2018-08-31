@@ -23,7 +23,7 @@
     var app = {};
     option = null;
     myChart.showLoading();
-    $.getJSON('2018-07-International-Exchange-Index.json', function(json) {
+    $.getJSON('international.json', function(json) {
         myChart.hideLoading();
         myChart.setOption(option = {
             title: {
