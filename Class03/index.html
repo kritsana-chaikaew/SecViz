@@ -55,6 +55,11 @@
             $.getJSON('domestic.json', function(json) {
                 myChart1.hideLoading();
                 myChart1.setOption(option = {
+                    emphasis: {
+                        lineStyle: {
+                            width: 10
+                        }
+                    },
                     backgroundColor: '#091323',
                     title: {
                         text: 'Domestic Exchange',
@@ -121,6 +126,11 @@
     $.getJSON('international.json', function(json) {
         myChart2.hideLoading();
         myChart2.setOption(option = {
+            emphasis: {
+                        lineStyle: {
+                            width: 10
+                        }
+                    },
             backgroundColor: '#091323',
             title: {
                 text: 'International Exchange',
