@@ -36,13 +36,12 @@
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
         </nav>
-    
         <div class='container-fluid'>
-            <div class="row" style="height: 1000px">
+            <div class="row" style="height: 1000px;width: 80%;float: none;margin: 0 auto;">
                     <div id="graph1" class="col-xs-12" style="height: 100%"></div>
             </div>
             <br />
-            <div class="row" style="height: 1000px">
+            <div class="row" style="height: 1000px;width: 80%;float: none;margin: 0 auto;">
                     <div id="graph2" class="col-xs-12" style="height: 100%"></div>
             </div>
             <br />
@@ -56,9 +55,13 @@
             $.getJSON('domestic.json', function(json) {
                 myChart1.hideLoading();
                 myChart1.setOption(option = {
+                    backgroundColor: '#091323',
                     title: {
                         text: 'Domestic Exchange',
-                        x: 'center'
+                        x: 'center',
+                        textStyle: {
+                            color: '#ffff'
+                        }
                     },
                     animationDurationUpdate: 1500,
                     animationEasingUpdate: 'quinticInOut',
@@ -118,9 +121,13 @@
     $.getJSON('international.json', function(json) {
         myChart2.hideLoading();
         myChart2.setOption(option = {
+            backgroundColor: '#091323',
             title: {
                 text: 'International Exchange',
-                x: 'center'
+                x: 'center',
+                textStyle: {
+                    color: '#ffff'
+                }
             },
             animationDurationUpdate: 1500,
             animationEasingUpdate: 'quinticInOut',
