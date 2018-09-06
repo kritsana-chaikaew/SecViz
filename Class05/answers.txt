@@ -3,3 +3,5 @@
 2.  $ cut -d " " -f6 web-anon-201704100307.0.txt|grep -v '-'|sort|uniq -c|sort -nr > ../unique-user-count.txt
     sed 's/^ *//' unique-user-count.txt > unique-user-count
     $ tr ' ' ',' < unique-user-count >unique-user-count.csv
+3.3 $ cut -d' ' -f15,17 *| grep '^80 '|grep -v ' -'|cut -d" " -f 2|sort|uniq -c|sort -nr > http-egress-count.txt
+    $ cut -d' ' -f15,17 *| grep '^80 '|grep -v ' -'|cut -d" " -f 2|sort|uniq -c|sort -nr|awk '{total += $0; $0 = total/208433*100}1' > http-egress-stat.txt
