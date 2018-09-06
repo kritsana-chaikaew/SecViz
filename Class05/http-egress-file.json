@@ -1,0 +1,778 @@
+[
+    {
+        "name": "unknown",
+        "value": 57080
+    },
+    {
+        "name": "jpg",
+        "value": 21395
+    },
+    {
+        "name": "html",
+        "value": 8226
+    },
+    {
+        "name": "php",
+        "value": 5984
+    },
+    {
+        "name": "xml",
+        "value": 3461
+    },
+    {
+        "name": "png",
+        "value": 3381
+    },
+    {
+        "name": "pdf",
+        "value": 3341
+    },
+    {
+        "name": "cgi",
+        "value": 1795
+    },
+    {
+        "name": "htm",
+        "value": 1212
+    },
+    {
+        "name": "crl",
+        "value": 1202
+    },
+    {
+        "name": "gif",
+        "value": 921
+    },
+    {
+        "name": "ver",
+        "value": 868
+    },
+    {
+        "name": "asp",
+        "value": 812
+    },
+    {
+        "name": "aspx",
+        "value": 772
+    },
+    {
+        "name": "txt",
+        "value": 613
+    },
+    {
+        "name": "wma",
+        "value": 600
+    },
+    {
+        "name": "mp4",
+        "value": 535
+    },
+    {
+        "name": "msi",
+        "value": 446
+    },
+    {
+        "name": "cab",
+        "value": 382
+    },
+    {
+        "name": "css",
+        "value": 351
+    },
+    {
+        "name": "dat",
+        "value": 337
+    },
+    {
+        "name": "doc",
+        "value": 314
+    },
+    {
+        "name": "ico",
+        "value": 275
+    },
+    {
+        "name": "jpeg",
+        "value": 266
+    },
+    {
+        "name": "mp3",
+        "value": 256
+    },
+    {
+        "name": "xls",
+        "value": 251
+    },
+    {
+        "name": "zip",
+        "value": 248
+    },
+    {
+        "name": "com",
+        "value": 244
+    },
+    {
+        "name": "klz",
+        "value": 225
+    },
+    {
+        "name": "esd",
+        "value": 225
+    },
+    {
+        "name": "upd",
+        "value": 210
+    },
+    {
+        "name": "dif",
+        "value": 209
+    },
+    {
+        "name": "exe",
+        "value": 163
+    },
+    {
+        "name": "mguard",
+        "value": 152
+    },
+    {
+        "name": "docx",
+        "value": 112
+    },
+    {
+        "name": "rar",
+        "value": 92
+    },
+    {
+        "name": "json",
+        "value": 91
+    },
+    {
+        "name": "m3u8",
+        "value": 88
+    },
+    {
+        "name": "bin",
+        "value": 82
+    },
+    {
+        "name": "page",
+        "value": 77
+    },
+    {
+        "name": "woff2",
+        "value": 73
+    },
+    {
+        "name": "dash",
+        "value": 68
+    },
+    {
+        "name": "nup",
+        "value": 62
+    },
+    {
+        "name": "crx",
+        "value": 62
+    },
+    {
+        "name": "psf",
+        "value": 51
+    },
+    {
+        "name": "aac",
+        "value": 51
+    },
+    {
+        "name": "jsp",
+        "value": 50
+    },
+    {
+        "name": "asm",
+        "value": 49
+    },
+    {
+        "name": "vpx",
+        "value": 48
+    },
+    {
+        "name": "svg",
+        "value": 48
+    },
+    {
+        "name": "swf",
+        "value": 45
+    },
+    {
+        "name": "woff",
+        "value": 39
+    },
+    {
+        "name": "shtml",
+        "value": 37
+    },
+    {
+        "name": "render",
+        "value": 33
+    },
+    {
+        "name": "cfm",
+        "value": 33
+    },
+    {
+        "name": "ppt",
+        "value": 28
+    },
+    {
+        "name": "webp",
+        "value": 27
+    },
+    {
+        "name": "kdc",
+        "value": 27
+    },
+    {
+        "name": "dll",
+        "value": 27
+    },
+    {
+        "name": "crt",
+        "value": 25
+    },
+    {
+        "name": "mar",
+        "value": 24
+    },
+    {
+        "name": "ctf",
+        "value": 24
+    },
+    {
+        "name": "xlsx",
+        "value": 23
+    },
+    {
+        "name": "ashx",
+        "value": 20
+    },
+    {
+        "name": "net",
+        "value": 19
+    },
+    {
+        "name": "ini",
+        "value": 19
+    },
+    {
+        "name": "pack",
+        "value": 13
+    },
+    {
+        "name": "grp",
+        "value": 13
+    },
+    {
+        "name": "dtd",
+        "value": 13
+    },
+    {
+        "name": "ttf",
+        "value": 12
+    },
+    {
+        "name": "fcgi",
+        "value": 11
+    },
+    {
+        "name": "sig",
+        "value": 9
+    },
+    {
+        "name": "mpg",
+        "value": 8
+    },
+    {
+        "name": "mid",
+        "value": 8
+    },
+    {
+        "name": "gem",
+        "value": 8
+    },
+    {
+        "name": "bmp",
+        "value": 8
+    },
+    {
+        "name": "online",
+        "value": 7
+    },
+    {
+        "name": "wmv",
+        "value": 6
+    },
+    {
+        "name": "pptx",
+        "value": 6
+    },
+    {
+        "name": "gzip",
+        "value": 6
+    },
+    {
+        "name": "upt",
+        "value": 5
+    },
+    {
+        "name": "pnc",
+        "value": 5
+    },
+    {
+        "name": "meta",
+        "value": 5
+    },
+    {
+        "name": "mannii",
+        "value": 5
+    },
+    {
+        "name": "gom",
+        "value": 5
+    },
+    {
+        "name": "fsb",
+        "value": 5
+    },
+    {
+        "name": "yes",
+        "value": 4
+    },
+    {
+        "name": "sqlite",
+        "value": 4
+    },
+    {
+        "name": "pps",
+        "value": 4
+    },
+    {
+        "name": "ies",
+        "value": 4
+    },
+    {
+        "name": "zspx",
+        "value": 3
+    },
+    {
+        "name": "venosa",
+        "value": 3
+    },
+    {
+        "name": "svc",
+        "value": 3
+    },
+    {
+        "name": "regok",
+        "value": 3
+    },
+    {
+        "name": "ogg",
+        "value": 3
+    },
+    {
+        "name": "m4v",
+        "value": 3
+    },
+    {
+        "name": "feed",
+        "value": 3
+    },
+    {
+        "name": "cur",
+        "value": 3
+    },
+    {
+        "name": "cms",
+        "value": 3
+    },
+    {
+        "name": "cer",
+        "value": 3
+    },
+    {
+        "name": "c2i",
+        "value": 3
+    },
+    {
+        "name": "action",
+        "value": 3
+    },
+    {
+        "name": "xlsm",
+        "value": 2
+    },
+    {
+        "name": "tpc",
+        "value": 2
+    },
+    {
+        "name": "tif",
+        "value": 2
+    },
+    {
+        "name": "start",
+        "value": 2
+    },
+    {
+        "name": "ssv",
+        "value": 2
+    },
+    {
+        "name": "srf",
+        "value": 2
+    },
+    {
+        "name": "psd",
+        "value": 2
+    },
+    {
+        "name": "otf",
+        "value": 2
+    },
+    {
+        "name": "ogv",
+        "value": 2
+    },
+    {
+        "name": "noad",
+        "value": 2
+    },
+    {
+        "name": "lat",
+        "value": 2
+    },
+    {
+        "name": "jsonok",
+        "value": 2
+    },
+    {
+        "name": "jar",
+        "value": 2
+    },
+    {
+        "name": "gota",
+        "value": 2
+    },
+    {
+        "name": "ept",
+        "value": 2
+    },
+    {
+        "name": "conf",
+        "value": 2
+    },
+    {
+        "name": "ztt",
+        "value": 1
+    },
+    {
+        "name": "zl4",
+        "value": 1
+    },
+    {
+        "name": "xml850",
+        "value": 1
+    },
+    {
+        "name": "wav",
+        "value": 1
+    },
+    {
+        "name": "vtt",
+        "value": 1
+    },
+    {
+        "name": "v20",
+        "value": 1
+    },
+    {
+        "name": "tv9",
+        "value": 1
+    },
+    {
+        "name": "tfb",
+        "value": 1
+    },
+    {
+        "name": "s-z",
+        "value": 1
+    },
+    {
+        "name": "sxq",
+        "value": 1
+    },
+    {
+        "name": "styles",
+        "value": 1
+    },
+    {
+        "name": "shs",
+        "value": 1
+    },
+    {
+        "name": "sec",
+        "value": 1
+    },
+    {
+        "name": "scss",
+        "value": 1
+    },
+    {
+        "name": "scmd",
+        "value": 1
+    },
+    {
+        "name": "s4s",
+        "value": 1
+    },
+    {
+        "name": "s4r",
+        "value": 1
+    },
+    {
+        "name": "rev",
+        "value": 1
+    },
+    {
+        "name": "rei",
+        "value": 1
+    },
+    {
+        "name": "rbk",
+        "value": 1
+    },
+    {
+        "name": "r9m",
+        "value": 1
+    },
+    {
+        "name": "qkx",
+        "value": 1
+    },
+    {
+        "name": "qig",
+        "value": 1
+    },
+    {
+        "name": "pyra",
+        "value": 1
+    },
+    {
+        "name": "pyh",
+        "value": 1
+    },
+    {
+        "name": "proto",
+        "value": 1
+    },
+    {
+        "name": "ppsx",
+        "value": 1
+    },
+    {
+        "name": "plist",
+        "value": 1
+    },
+    {
+        "name": "pjv",
+        "value": 1
+    },
+    {
+        "name": "pgs",
+        "value": 1
+    },
+    {
+        "name": "pet",
+        "value": 1
+    },
+    {
+        "name": "osy",
+        "value": 1
+    },
+    {
+        "name": "npk",
+        "value": 1
+    },
+    {
+        "name": "nmt",
+        "value": 1
+    },
+    {
+        "name": "nhm",
+        "value": 1
+    },
+    {
+        "name": "n8l",
+        "value": 1
+    },
+    {
+        "name": "mvc",
+        "value": 1
+    },
+    {
+        "name": "mpd",
+        "value": 1
+    },
+    {
+        "name": "mht",
+        "value": 1
+    },
+    {
+        "name": "mdi",
+        "value": 1
+    },
+    {
+        "name": "mdb",
+        "value": 1
+    },
+    {
+        "name": "m4a",
+        "value": 1
+    },
+    {
+        "name": "log",
+        "value": 1
+    },
+    {
+        "name": "kyj",
+        "value": 1
+    },
+    {
+        "name": "kmk",
+        "value": 1
+    },
+    {
+        "name": "jya",
+        "value": 1
+    },
+    {
+        "name": "jea",
+        "value": 1
+    },
+    {
+        "name": "jad",
+        "value": 1
+    },
+    {
+        "name": "info",
+        "value": 1
+    },
+    {
+        "name": "img",
+        "value": 1
+    },
+    {
+        "name": "htnl",
+        "value": 1
+    },
+    {
+        "name": "htmll",
+        "value": 1
+    },
+    {
+        "name": "hqv",
+        "value": 1
+    },
+    {
+        "name": "h9i",
+        "value": 1
+    },
+    {
+        "name": "h54",
+        "value": 1
+    },
+    {
+        "name": "h12",
+        "value": 1
+    },
+    {
+        "name": "g005",
+        "value": 1
+    },
+    {
+        "name": "g004",
+        "value": 1
+    },
+    {
+        "name": "g003",
+        "value": 1
+    },
+    {
+        "name": "fqf",
+        "value": 1
+    },
+    {
+        "name": "fopen",
+        "value": 1
+    },
+    {
+        "name": "fn7",
+        "value": 1
+    },
+    {
+        "name": "f6s",
+        "value": 1
+    },
+    {
+        "name": "evb",
+        "value": 1
+    },
+    {
+        "name": "egq",
+        "value": 1
+    },
+    {
+        "name": "dotx",
+        "value": 1
+    },
+    {
+        "name": "dict",
+        "value": 1
+    },
+    {
+        "name": "data",
+        "value": 1
+    },
+    {
+        "name": "crxd",
+        "value": 1
+    },
+    {
+        "name": "crm",
+        "value": 1
+    },
+    {
+        "name": "config",
+        "value": 1
+    },
+    {
+        "name": "ccn",
+        "value": 1
+    },
+    {
+        "name": "bbz",
+        "value": 1
+    },
+    {
+        "name": "b7l",
+        "value": 1
+    },
+    {
+        "name": "asmx",
+        "value": 1
+    },
+    {
+        "name": "aha",
+        "value": 1
+    }
+]
