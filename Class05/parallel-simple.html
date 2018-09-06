@@ -1,52 +1,110 @@
 <!DOCTYPE html>
 <html style="height: 100%">
-   <head>
-       <meta charset="utf-8">
-   </head>
-   <body style="height: 100%; margin: 0">
-       <div id="container" style="height: 100%"></div>
-       <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/echarts.min.js"></script>
-       <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-gl/echarts-gl.min.js"></script>
-       <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-stat/ecStat.min.js"></script>
-       <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/dataTool.min.js"></script>
-       <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/china.js"></script>
-       <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/world.js"></script>
-       <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=ZUONbpqGBsYGXNIYHicvbAbM"></script>
-       <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/bmap.min.js"></script>
-       <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/simplex.js"></script>
-       <script type="text/javascript">
-var dom = document.getElementById("container");
-var myChart = echarts.init(dom);
-var app = {};
-option = null;
-option = {
-    parallelAxis: [
-        {dim: 0, name: 'Price'},
-        {dim: 1, name: 'Net Weight'},
-        {dim: 2, name: 'Amount'},
-        {
-            dim: 3,
-            name: 'Score',
-            type: 'category',
-            data: ['Excellent', 'Good', 'OK', 'Bad']
-        }
-    ],
-    series: {
-        type: 'parallel',
-        lineStyle: {
-            width: 4
-        },
-        data: [
-            [12.99, 100, 82, 'Good'],
-            [9.99, 80, 77, 'OK'],
-            [20, 120, 60, 'Excellent']
-        ]
-    }
-};
-;
-if (option && typeof option === "object") {
-    myChart.setOption(option, true);
-}
-       </script>
-   </body>
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body style="height: 100%; margin: 0">
+    <div id="container" style="height: 100%"></div>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/echarts.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-gl/echarts-gl.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-stat/ecStat.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/dataTool.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/china.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/world.js"></script>
+    <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=ZUONbpqGBsYGXNIYHicvbAbM"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/bmap.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/simplex.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript">
+        var dom = document.getElementById("container");
+        var myChart = echarts.init(dom);
+        var app = {};
+        option = null;
+        $.getJSON('topmost.json', function (json) {
+            var times = Object.values(json['time']);
+            var ids = Object.values(json['user_id_client']);
+            var srcIps = Object.values(json['src_ip ']);
+            var dstIps = Object.values(json['dst_ip']);
+            var dstPorts = Object.values(json['dst_port']);
+            var hosts = Object.values(json['host']);
+
+            var timeIndex = Array.from(new Set(times));
+            var idIndex = Array.from(new Set(ids));
+            var srcIpIndex = Array.from(new Set(srcIps));
+            var dstIpIndex = Array.from(new Set(dstIps));
+            var dstPortIndex = Array.from(new Set(dstPorts));
+            var hostIndex = Array.from(new Set(hosts));
+
+            console.log(timeIndex);
+            console.log(idIndex);
+            console.log(srcIpIndex);
+            console.log(dstIpIndex);
+            console.log(dstPortIndex);
+            console.log(hostIndex);
+
+            data = []
+            for (var i = 0; i < Object.values(json['time']).length; i++) {
+                data.push([
+                    times[i],
+                    ids[i],
+                    srcIps[i],
+                    dstIps[i],
+                    dstPorts[i],
+                    hosts[i]
+                ]);
+            }
+
+            myChart.setOption(option = {
+                parallelAxis: [
+                    {
+                        dim: 0, name: 'Time',
+                        type: 'category',
+                        data: timeIndex
+                    },
+                    {
+                        dim: 1, name: 'User ID',
+                        type: 'category',
+                        data: idIndex
+                    },
+                    {
+                        dim: 2, name: 'Source IP',
+                        type: 'category',
+                        data: srcIpIndex
+                    },
+                    {
+                        dim: 3,
+                        name: 'Destination IP',
+                        type: 'category',
+                        data: dstIpIndex
+                    },
+                    {
+                        dim: 4,
+                        name: 'Destination Port',
+                        type: 'category',
+                        data: dstPortIndex
+                    },
+                    {
+                        dim: 5,
+                        name: 'Host',
+                        type: 'category',
+                        data: hostIndex
+                    }
+                ],
+                series: {
+                    type: 'parallel',
+                    lineStyle: {
+                        width: 4
+                    },
+                    data: data.map(function (row) {
+                        return row;
+                    })
+                }
+            });
+
+        });
+    </script>
+</body>
+
 </html>
