@@ -37,16 +37,19 @@
             var dstPortIndex = Array.from(new Set(dstPorts));
             var hostIndex = Array.from(new Set(hosts));
 
-            console.log(timeIndex);
-            console.log(idIndex);
-            console.log(srcIpIndex);
-            console.log(dstIpIndex);
-            console.log(dstPortIndex);
-            console.log(hostIndex);
+            var lineStyle = {
+                normal: {
+                    width: 1,
+                    opacity: 0.5
+                }
+            }
 
-            data = []
+            users_data = {}
+            for (var i=0; i<idIndex.length; i++) {
+                users_data[idIndex[i]] = []
+            }
             for (var i = 0; i < Object.values(json['time']).length; i++) {
-                data.push([
+                users_data[ids[i]].push([
                     times[i],
                     ids[i],
                     srcIps[i],
@@ -56,7 +59,27 @@
                 ]);
             }
 
+            series = []
+            for(var i=0; i<idIndex.length; i++) {
+                series.push({
+                    'name': idIndex[i],
+                    'type': 'parallel',
+                    'lineStyle': lineStyle,
+                    'data': users_data[idIndex[i]]
+                    });
+            }
+
             myChart.setOption(option = {
+                backgroundColor: '#333',
+                legend: {
+                    bottom: 30,
+                    data: idIndex,
+                    itemGap: 20,
+                    textStyle: {
+                        color: '#fff',
+                        fontSize: 14
+                    }
+                },
                 parallelAxis: [
                     {
                         dim: 0, name: 'Time',
@@ -92,15 +115,50 @@
                         data: hostIndex
                     }
                 ],
-                series: {
-                    type: 'parallel',
-                    lineStyle: {
-                        width: 4
-                    },
-                    data: data.map(function (row) {
-                        return row;
-                    })
-                }
+                visualMap: {
+                    show: true,
+                    min: 0,
+                    max: 150,
+                    dimension: 2,
+                    inRange: {
+                        color: ['#d94e5d','#eac736','#50a3ba'].reverse(),
+                        // colorAlpha: [0, 1]
+                    }
+                },
+                parallel: {
+                    left: '5%',
+                    right: '18%',
+                    bottom: 100,
+                    parallelAxisDefault: {
+                        type: 'value',
+                        name: 'AQI指数',
+                        nameLocation: 'end',
+                        nameGap: 20,
+                        nameTextStyle: {
+                            color: '#fff',
+                            fontSize: 12
+                        },
+                        axisLine: {
+                            lineStyle: {
+                                color: '#aaa'
+                            }
+                        },
+                        axisTick: {
+                            lineStyle: {
+                                color: '#777'
+                            }
+                        },
+                        splitLine: {
+                            show: false
+                        },
+                        axisLabel: {
+                            textStyle: {
+                                color: '#fff'
+                            }
+                        }
+                    }
+                },
+                series: series
             });
 
         });
