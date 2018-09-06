@@ -1,0 +1,5 @@
+1.  wc -l *
+    7th minute (web-anon-201704100307.0.txt)
+2.  $ cut -d " " -f6 web-anon-201704100307.0.txt|grep -v '-'|sort|uniq -c|sort -nr > ../unique-user-count.txt
+    sed 's/^ *//' unique-user-count.txt > unique-user-count
+    $ tr ' ' ',' < unique-user-count >unique-user-count.csv
