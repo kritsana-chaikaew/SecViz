@@ -3,6 +3,11 @@
 2.  $ cut -d " " -f6 web-anon-201704100307.0.txt|grep -v '-'|sort|uniq -c|sort -nr > ../unique-user-count.txt
     sed 's/^ *//' unique-user-count.txt > unique-user-count
     $ tr ' ' ',' < unique-user-count >unique-user-count.csv
+3.2 91 RMUn6owxz3Npjow@ku.ac.th
+    87 RMUjtMPNJ6aT3TB@ku.ac.th
+    69 RMUpKGYn9d5by4N@ku.ac.th
+    60 RMUpKmcaiQtXA57@ku.ac.th
+    52 RMUkdLcDsnd6MSH@ku.ac.th
 3.3 $ cut -d' ' -f11,15,17 *| grep --color '^\(158\.108\.\|10\.\|2406:3100\)'|cut -d' ' -f 2,3|grep '^80 '|grep -v ' -'|cut -d" " -f 2|sort|uniq -c|sort -nr > http-egress-count.txt 
     $ cut -d' ' -f15,17 *| grep '^80 '|grep -v ' -'|cut -d" " -f 2|sort|uniq -c|sort -nr|awk '{total += $0; $0 = total/208433*100}1' > http-egress-stat.txt
 3.5 $ cut -d' ' -f11,15,18 *| grep --color '^\(158\.108\.\|10\.\|2406:3100\)'|cut -d' ' -f 2,3|grep '^80 '|cut -d" " -f 2|grep -Eio --color "\.[a-z].[a-z|0-9]{1,4}$"|tr '[:upper:]' '[:lower:]'|sort|uniq -c|sort -nr > ../http-egress-file.txt    118624-61544=57080
