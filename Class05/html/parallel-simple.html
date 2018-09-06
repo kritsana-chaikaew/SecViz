@@ -22,7 +22,7 @@
         var myChart = echarts.init(dom);
         var app = {};
         option = null;
-        $.getJSON('topmost.json', function (json) {
+        $.getJSON('../json/topmost.json', function (json) {
             var times = Object.values(json['time']);
             var ids = Object.values(json['user_id_client']);
             var srcIps = Object.values(json['src_ip ']);
