@@ -48,7 +48,7 @@
             for (var i=0; i<idIndex.length; i++) {
                 users_data[idIndex[i]] = []
             }
-            for (var i = 0; i < Object.values(json['time']).length; i++) {
+            for (var i = 0; i < times.length; i++) {
                 users_data[ids[i]].push([
                     times[i],
                     ids[i],
@@ -77,14 +77,16 @@
                     itemGap: 20,
                     textStyle: {
                         color: '#fff',
-                        fontSize: 14
+                        fontSize: 16
                     }
                 },
                 parallelAxis: [
                     {
                         dim: 0, name: 'Time',
                         type: 'category',
-                        data: timeIndex
+                        data: timeIndex,
+                        inverse: true,
+                        nameLocation: 'start',
                     },
                     {
                         dim: 1, name: 'User ID',
@@ -122,7 +124,6 @@
                     dimension: 2,
                     inRange: {
                         color: ['#d94e5d','#eac736','#50a3ba'].reverse(),
-                        // colorAlpha: [0, 1]
                     }
                 },
                 parallel: {
@@ -131,7 +132,7 @@
                     bottom: 100,
                     parallelAxisDefault: {
                         type: 'value',
-                        name: 'AQI指数',
+                        name: 'User',
                         nameLocation: 'end',
                         nameGap: 20,
                         nameTextStyle: {
